@@ -24,7 +24,7 @@ Project Hellscream™ is a 6.2.4a project based off Trinitycore 6.04/6.24a is a 
 
 ------------------------------------------------------------------------------------
 
-*Cut Content
+## Cut Content
 
 - The Chronal Spire Intro Will Replace *The Dark Portal Intro WoD [Quest Chain] 
 - Farahlon [Locations]
@@ -63,24 +63,24 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *Alliance
 
-- Elwynn Forest (Human @ 95%) - Working
-- Gilneas (Worgen @ 5%) - Not Working
-- Teldrassil (Night Elf @ 98%) - Working
-- Dun Morogh (Dwarf/Gnome @ 85%) - Working
-- Azuremyst Isle & Bloodmyst Isle (Draenei @ 90%) - Working
+- Elwynn Forest (Human @ 95%) - Working [Scripted]
+- Gilneas (Worgen @ 5%) - Not Working [Not-Scripted]
+- Teldrassil (Night Elf @ 100%) - Working [Scripted]
+- Dun Morogh (Dwarf/Gnome @ 85%) - Working [Scripted]
+- Azuremyst Isle & Bloodmyst Isle (Draenei @ 90%) - Working [Scripted]
 
 *Horde
 
-- Eversong Woods (Blood Elf @ 98%) - Working
-- Durotar (Orc @ 99%) - Working
-- Echo Isles (Troll @ 98%) - Working
-- Kezan (Goblin @ 46%) - Not Working
-- Mulgore (Tauren @ 85%) - Working
-- Trisfal Glades (Undead @ 98%) - Working
+- Eversong Woods (Blood Elf @ 98%) - Working [Scripted]
+- Durotar (Orc @ 99%) - Working [Scripted]
+- Echo Isles (Troll @ 98%) - Working [Scripted]
+- Kezan (Goblin @ 46%) - Not Working [Not-Scripted]
+- Mulgore (Tauren @ 85%) - Working [Scripted]
+- Trisfal Glades (Undead @ 100%) - Working [Scripted]
 
 *Neutral
 
-- The Wandering Isle (Pandaren @ 5%) - Not Working
+- The Wandering Isle (Pandaren @ 5%) - Not Working [Not-Scripted]
 
 ------------------------------------------------------------------------------------
 
@@ -100,7 +100,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Deathknell	1 - 20	Horde - Not Tested @ ??%		
 - Deeprun Tram	1 - 100	Alliance	Transit - Not Tested @ ??%	
 - Dun Morogh	1 - 20	Alliance - Not Tested @ ??%		
-- Duskwood	20 - 60	Alliance - Not Tested @ ??%				
+- Duskwood	20 - 60	Alliance - Working @ 99% [2 Bugged Quests][Scripted]				
 - Eastern Plaguelands	40 - 60	Contested - Not Tested @ ??%		
 - Elwynn Forest	1 - 20	Alliance - Not Tested @ ??%		
 - Eversong Woods	1 - 20	Horde - Not Tested @ ??%		
@@ -148,7 +148,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Dustwallow Marsh	35 - 60	Contested - Not Tested @ ??%		
 - Echo Isles	1 - 20	Horde - Not Tested @ ??%		
 - Felwood	40 - 60	Contested - Not Tested @ ??%		
-- Feralas	35 - 60	Contested - Not Tested @ ??%		
+- Feralas	35 - 60	Contested - Working @ 97% [3 Bugged Quests][Scripted]		
 - Molten Front	85	Contested - Not Tested @ ??%		
 - Moonglade	1 - 90	Contested - Not Tested @ ??%		
 - Mount Hyjal	80 - 90	Contested - Not Tested @ ??%		
@@ -157,9 +157,9 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Shadowglen	1 - 20	Alliance - Not Tested @ ??%		
 - Silithus	40 - 60	Contested - Not Tested @ ??%		
 - Southern Barrens	25 - 60	Contested - Not Tested @ ??%		
-- Stonetalon Mountains	20 - 60	Contested - Not Tested @ ??%		
+- Stonetalon Mountains	20 - 60	Contested - Working @ 51%[Scripted]		
 - Tanaris	40 - 60	Contested - Not Tested @ ??%		
-- Teldrassil	1 - 20	Alliance - Not Tested @ ??%		
+- Teldrassil	1 - 20	Alliance - Working @ 100% [Scripted]		
 - Thousand Needles	40 - 60	Contested - Not Tested @ ??%		
 - Uldum	83 - 90	Contested - Not Tested @ ??%		
 - Un'Goro Crater	40 - 60	Contested - Not Tested @ ??%		
@@ -314,7 +314,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Lost City of the Tol'vir - Not Tested @ ??%
 - The Deadmines (Heroic) - Not Tested @ ??%
 - Shadowfang Keep (Heroic) - Not Tested @ ??%
-- Zul'Aman - 5-man - 
+- Zul'Aman - 5-man - Not Tested @ ??% 
 - Zul'Gurub - Not Tested @ ??%
 - End Time - Not Tested @ ??%
 - Well of Eternity - Not Tested @ ??%
@@ -401,7 +401,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
  
 ------------------------------------------------------------------------------------
 
-## Core mechanics
+## Core Mechanics
 
 - Advanced Pathfinding - Working @ 89%
 - AoE Loot - Not Working @ 22%
@@ -495,8 +495,8 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Yu'lon <The Jade Serpent> - Not Tested @ ??%
 - Nalak <The Storm Lord> - Not Tested @ ??%
 - Ordos <Fire-God of the Yaungol> - Not Tested @ ??%
-- Oondasta - Working @ 95% - Not Tested @ ??%
-- Galion - Working @ 92% - Not Tested @ ??%
+- Oondasta - Not Tested @ ??%
+- Galion - Not Tested @ ??%
 - Sha of Anger - Working @ 97% - Not Tested @ ??%
 
 *Draenor
