@@ -157,8 +157,8 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Shadowglen	1 - 20	Alliance - Not Tested @ ??%		
 - Silithus	40 - 60	Contested - Not Tested @ ??%		
 - Southern Barrens	25 - 60	Contested - Not Tested @ ??%		
-- Stonetalon Mountains	20 - 60	Contested - Working @ 51%[Scripted]		
-- Tanaris	40 - 60	Contested - Not Tested @ ??%		
+- Stonetalon Mountains	20 - 60	Contested - Working @ 51% [Scripted]		
+- Tanaris	40 - 60	Contested - Working @ 66% [14 Bugged Quests][Scripted]
 - Teldrassil	1 - 20	Alliance - Working @ 100% [Scripted]		
 - Thousand Needles	40 - 60	Contested - Not Tested @ ??%		
 - Uldum	83 - 90	Contested - Not Tested @ ??%		
