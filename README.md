@@ -110,7 +110,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Hillsbrad Foothills	15 - 60	Horde - Not Tested @ ??%		
 - Isle of Quel'Danas	70	Contested - Not Tested @ ??%		
 - Kelp'thar Forest	80 - 90	Contested - Not Tested @ ??%		
-- Loch Modan	10 - 60	Alliance - Not Tested @ ??%		
+- Loch Modan	10 - 60	Alliance - Working @ 98%	[1 Bugged Quests][Scripted]			
 - New Tinkertown	1 - 20	Alliance - Not Tested @ ??%		
 - Northern Stranglethorn	25 - 60	Contested - Not Tested @ ??%		
 - Northshire	1 - 20	Alliance - Not Tested @ ??%		
