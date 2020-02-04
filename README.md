@@ -510,6 +510,6 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 ## Discord
 
-Intrested in helping "Project Hellscream" with Alpha testing please join our discord.
+Interested in helping "Project Hellscream" with Alpha testing please join our discord.
 
 Discord invite link: https://discord.gg/CWCF3C9
