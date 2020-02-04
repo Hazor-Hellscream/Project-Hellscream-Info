@@ -3,9 +3,10 @@
 
 ## Information and Updates
 
+* [Cut Content](#cut-content)
 * [Discord](#discord)
 * [Classes](#classes)
-* [Core mechanics](#core-mechanics)
+* [Core Mechanics](#core-mechanics)
 * [Game Events](#game-events)
 * [Introduction](#introduction)
 * [Locations](#locations)
@@ -21,7 +22,7 @@
 
 Project Hellscream™ is a 6.2.4a project based off Trinitycore 6.04/6.24a is a MMORPG Framework based mostly in C++. It is private sourced. https://hellscream.org
 
-
+------------------------------------------------------------------------------------
 
 *Cut Content
 
@@ -242,34 +243,161 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 ## Dungeons
 
+*Classic Dungeons
+
+- Ragefire Chasm - Not Tested @ ??%  	
+- The Deadmines - Not Tested @ ??%  
+- Wailing Caverns - Not Tested @ ??%  
+- Shadowfang Keep - Not Tested @ ??%  
+- Blackfathom Deeps - Not Tested @ ??%  
+- Gnomeregan - Not Tested @ ??% 
+- Scarlet Halls - Not Tested @ ??%  
+- Scarlet Monastery - Not Tested @ ??% 
+- Razorfen Kraul - Not Tested @ ??% 
+- Maraudon - Not Tested @ ??% 
+- Razorfen Downs - Not Tested @ ??% 
+- Dire Maul - Not Tested @ ??% 
+- Scholomance - Not Tested @ ??% 
+- Uldaman - Not Tested @ ??% 
+- Stratholme - Not Tested @ ??% 
+- Zul'Farrak - Not Tested @ ??%  
+- Blackrock Depths - Not Tested @ ??% 
+- Sunken Temple - Not Tested @ ??% 
+- Lower Blackrock Spire - Not Tested @ ??% 
+
+*Tbc Dungeons
+
+- Hellfire Ramparts - Not Tested @ ??%  	
+- Blood Furnace - Not Tested @ ??%  	
+- Slave Pens - Not Tested @ ??%  
+- Underbog - Not Tested @ ??%  
+- Mana-Tombs - Not Tested @ ??% 
+- Auchenai Crypts - Not Tested @ ??%  
+- Escape from Durnholde Keep - Not Tested @ ??% 
+- Sethekk Halls - Not Tested @ ??% 
+- Shadow Labyrinth - Not Tested @ ??% 
+- Shattered Halls - Not Tested @ ??% 
+- The Botanica - Not Tested @ ??%  
+- The Mechanar - Not Tested @ ??%  
+- The Steamvault - Not Tested @ ??%  
+- Magisters' Terrace - Not Tested @ ??%
+- Opening of the Dark Portal - Not Tested @ ??% 
+- The Arcatraz - Not Tested @ ??% 
+
+*Wotlk Dungeons
+
+- Utgarde Keep - Not Tested @ ??% 
+- The Nexus - Not Tested @ ??% 
+- Azjol-Nerub: Azjol-Nerub - Not Tested @ ??%
+- Ahn'kahet: The Old Kingdom - Not Tested @ ??%
+- Drak'Tharon Keep - Not Tested @ ??% 	
+- The Violet Hold - Not Tested @ ??% 
+- Gundrak - Not Tested @ ??%
+- Halls of Stone - Not Tested @ ??% 	
+- Halls of Lightning - Not Tested @ ??%
+- The Oculus - Not Tested @ ??%
+- Utgarde Pinnacle - Not Tested @ ??%
+- The Culling of Stratholme - Not Tested @ ??%
+- Trial of the Champion
+- Halls of Reflection - Not Tested @ ??%
+- Pit of Saron - Not Tested @ ??%
+- The Forge of Souls - Not Tested @ ??%
+
+*Cata Dungeons
+
+- Throne of the Tides - Not Tested @ ??%
+- Blackrock Caverns - Not Tested @ ??%
+- The Stonecore - Not Tested @ ??% 
+- The Vortex Pinnacle - Not Tested @ ??% 
+- Grim Batol - Not Tested @ ??%
+- Halls of Origination - Not Tested @ ??% 	
+- Lost City of the Tol'vir - Not Tested @ ??%
+- The Deadmines (Heroic) - Not Tested @ ??%
+- Shadowfang Keep (Heroic) - Not Tested @ ??%
+- Zul'Aman - 5-man - 
+- Zul'Gurub - Not Tested @ ??%
+- End Time - Not Tested @ ??%
+- Well of Eternity - Not Tested @ ??%
+- Hour of Twilight - Not Tested @ ??%
+
 *MoP Dungeons
 
-- Gate Setting Sun - Not Tested @ ??%
-- Mogushan Palace - Not Tested @ ??%
-- Shadopan Monastery - Not Tested @ ??%
-- Siege Niuzao Temple - Not Tested @ ??%
+- Scarlet Halls - Not Tested @ ??%
+- Scarlet Monastery - Not Tested @ ??% 
+- Scholomance - Not Tested @ ??%
 - Stormstout Brewery - Not Tested @ ??%
 - Temple Jade Serpent - Not Tested @ ??%
+- Mogushan Palace - Not Tested @ ??%
+- Shadopan Monastery - Not Tested @ ??%
+- Gate Setting Sun - Not Tested @ ??%
+- Siege Niuzao Temple - Not Tested @ ??%
 
 *WoD Dungeons
 
-- Bloodmaul, Slag Mines - Not Tested @ ??%
-- Iron Docks - Not Tested @ ??%
-- Everbloom - Not Tested @ ??%
+- Bloodmaul Slag Mines - Not Tested @ ??%
+- Iron Docks - Not Tested @ ??% 
+- Auchindoun - Not Tested @ ??%
+- Skyreach - Not Tested @ ??%
+- Grimrail Depot - Not Tested @ ??%
 - Shadowmoon Burial Grounds - Not Tested @ ??%
+- The Everbloom - Not Tested @ ??%
+- Upper Blackrock Spire - Not Tested @ ??%
 
 ------------------------------------------------------------------------------------
 
 ## Raids
 
-*MoP Raids
+*Classic Raids
 
-- Heart Of Fear - Not Tested @ ??%
+- Ruins of Ahn'Qiraj - Not Tested @ ??%  
+- Molten Core - Not Tested @ ??% 
+- Blackwing Lair - Not Tested @ ??% 
+- Temple of Ahn'Qiraj - Not Tested @ ??% 
+
+*Tbc Raids
+
+- Karazhan - Not Tested @ ??% 
+- Gruul's Lair - Not Tested @ ??%  
+- Magtheridon's Lair - Not Tested @ ??%  
+- Serpentshrine Cavern - Not Tested @ ??% 
+- Tempest Keep: The Eye - Not Tested @ ??% 
+- Battle for Mount Hyjal - Not Tested @ ??% 
+- Black Temple - Not Tested @ ??% 
+- Sunwell Plateau - Not Tested @ ??% 
+
+*Wotlk Raids
+
+- Naxxramas - Not Tested @ ??%  	
+- Obsidian Sanctum - Not Tested @ ??% 
+- Vault of Archavon - Not Tested @ ??% 
+- Eye of Eternity - Not Tested @ ??% 
+- Ulduar - Not Tested @ ??%
+- Crusaders' Coliseum: Trial of the Crusader - Not Tested @ ??% 
+- Onyxia's Lair - Not Tested @ ??% 
+- Icecrown Citadel - Not Tested @ ??%
+- Ruby Sanctum - Not Tested @ ??%
+
+*Cata Raids
+
+- Baradin Hold - Not Tested @ ??%
+- The Bastion of Twilight - Not Tested @ ??%
+- Throne of the Four Winds - Not Tested @ ??%
+- Blackwing Descent - Not Tested @ ??%
+- Firelands - Not Tested @ ??%
+- Dragon Soul - Not Tested @ ??%
+
+*MoP Raids
 - Mogushan Vault - Not Tested @ ??%
+- Heart Of Fear - Not Tested @ ??%
+- Terrace of Endless Spring - Not Tested @ ??% 
+- Throne of Thunder - Not Tested @ ??% 
+- Siege of Orgrimmar - Not Tested @ ??%
 
 *WoD Raids
 
 - Highmaul - Not Tested @ ??%
+- Blackrock Foundry - Not Tested @ ??%
+- Hellfire Citadel - Not Tested @ ??%
  
 ------------------------------------------------------------------------------------
 
