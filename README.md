@@ -63,7 +63,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *Alliance
 
-- Elwynn Forest (Human @ 95%) - Working [Scripted]
+- Elwynn Forest (Human @ 100%) - Working [Scripted]
 - Gilneas (Worgen @ 5%) - Not Working [Not-Scripted]
 - Teldrassil (Night Elf @ 100%) - Working [Scripted]
 - Dun Morogh (Dwarf/Gnome @ 85%) - Working [Scripted]
