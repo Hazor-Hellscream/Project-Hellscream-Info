@@ -497,7 +497,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Ordos <Fire-God of the Yaungol> - Not Tested @ ??%
 - Oondasta - Not Tested @ ??%
 - Galion - Not Tested @ ??%
-- Sha of Anger - Working @ 97% - Not Tested @ ??%
+- Sha of Anger - Not Tested @ ??%
 
 *Draenor
 
