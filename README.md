@@ -14,7 +14,7 @@
 * [Starter Locations](#starter-locations)
 * [Dungeons](#dungeons)
 * [Raids](#raids)
-* [World Bosses](world-bosses)
+* [World Bosses](#world-bosses)
 
 ------------------------------------------------------------------------------------
 
