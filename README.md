@@ -90,7 +90,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 - Abyssal Depths	80 - 82	Contested - Not Tested @ Alliance ??%	- Horde ??%
 - Alterac Mountains	25 - 30	Contested - Not Tested @ Alliance ??%	- Horde ??%	
-- Arathi Highlands	25 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%
+- Arathi Highlands	25 - 60	Contested - Working @ Alliance 100% [Scripted]	- Horde ??%
 - Badlands	40 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%	
 - Blackrock Mountain	50 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%		
 - Blasted Lands	40 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%		
