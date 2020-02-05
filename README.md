@@ -131,7 +131,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Vashj'ir	80 - 82	Contested - Not Tested @ ??%		
 - Western Plaguelands	35 - 60	Contested	 - Not Tested @ Alliance ??%	- Horde ??%
 - Westfall	10 - 60	Alliance - Not Tested @ ??%		
-- Wetlands	25 - 60	Alliance - Not Tested @ ??%		
+- Wetlands	25 - 60	Alliance - Working @ 97% [2 Bugged Quests][Scripted]		
 
 *Kalimdor
 
