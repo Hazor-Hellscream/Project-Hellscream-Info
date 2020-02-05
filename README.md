@@ -407,7 +407,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Advanced Pathfinding - Working @ 89%
 - AoE Loot - Not Working @ 22%
 - Achievements - Working @ 91%
-- Account-Wide Collections (Mounts, Heirlooms, Pets) - Working @ 65% - Crashes wow.exe if "You Don't Have A Mount In Collection"
+- Account-Wide Collections (Mounts, Heirlooms, Pets) - Working @ 90% - [Mounts Are Not Account-Wide]
 - Transmogrifier - Working @ 100%
 - Void Storage - Working @ 100%
 - Base & Bonus Stats - Working @ 92%
