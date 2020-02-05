@@ -88,81 +88,81 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *Eastern Kingdoms
 
-- Abyssal Depths	80 - 82	Contested - Not Tested @ ??%
-- Alterac Mountains	25 - 30	Contested - Not Tested @ ??%		
-- Arathi Highlands	25 - 60	Contested - Not Tested @ ??%		
-- Badlands	40 - 60	Contested - Not Tested @ ??%		
-- Blackrock Mountain	50 - 60	Contested - Not Tested @ ??%		
-- Blasted Lands	40 - 60	Contested - Not Tested @ ??%		
-- Burning Steppes	40 - 60	Contested - Not Tested @ ??%		
+- Abyssal Depths	80 - 82	Contested - Not Tested @ Alliance ??%	- Horde ??%
+- Alterac Mountains	25 - 30	Contested - Not Tested @ Alliance ??%	- Horde ??%	
+- Arathi Highlands	25 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%
+- Badlands	40 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%	
+- Blackrock Mountain	50 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%		
+- Blasted Lands	40 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%		
+- Burning Steppes	40 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%
 - Coldridge Valley	1 - 20	Alliance - Not Tested @ ??%		
-- Deadwind Pass	50 - 60	Contested - Not Tested @ ??%		
+- Deadwind Pass	50 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%
 - Deathknell	1 - 20	Horde - Not Tested @ ??%		
 - Deeprun Tram	1 - 100	Alliance	Transit - Not Tested @ ??%	
 - Dun Morogh	1 - 20	Alliance - Not Tested @ ??%		
 - Duskwood	20 - 60	Alliance - Working @ 99% [2 Bugged Quests][Scripted]				
-- Eastern Plaguelands	40 - 60	Contested - Not Tested @ ??%		
+- Eastern Plaguelands	40 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%
 - Elwynn Forest	1 - 20	Alliance - Not Tested @ ??%		
 - Eversong Woods	1 - 20	Horde - Not Tested @ ??%		
 - Ghostlands	10 - 60	Horde - Not Tested @ ??%		
 - Gilneas	1 - 12	Alliance - Not Tested @ ??%		
 - Gilneas City	1 - 20	Alliance - Not Tested @ ??%		
 - Hillsbrad Foothills	15 - 60	Horde - Not Tested @ ??%		
-- Isle of Quel'Danas	70	Contested - Not Tested @ ??%		
-- Kelp'thar Forest	80 - 90	Contested - Not Tested @ ??%		
+- Isle of Quel'Danas	70	Contested - Not Tested @ Alliance ??%	- Horde ??%	
+- Kelp'thar Forest	80 - 90	Contested - Not Tested @ Alliance ??%	- Horde ??%	
 - Loch Modan	10 - 60	Alliance - Working @ 98%	[1 Bugged Quests][Scripted]			
 - New Tinkertown	1 - 20	Alliance - Not Tested @ ??%		
-- Northern Stranglethorn	25 - 60	Contested - Not Tested @ ??%		
+- Northern Stranglethorn	25 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%		
 - Northshire	1 - 20	Alliance - Not Tested @ ??%		
-- Plaguelands: The Scarlet Enclave	55 - 58	Contested - Not Tested @ ??%			
+- Plaguelands: The Scarlet Enclave	55 - 58	Contested - Not Tested @ Alliance ??%	- Horde ??%
 - Redridge Mountains	15 - 60	Alliance - Not Tested @ ??%		
 - Ruins of Gilneas	14 - 20	Alliance - Not Tested @ ??%		
-- Ruins of Gilneas City		Contested - Not Tested @ ??%		
-- Searing Gorge	40 - 60	Contested - Not Tested @ ??%		
-- Shimmering Expanse	80 - 82	Contested - Not Tested @ ??%		
+- Ruins of Gilneas City		Contested - Not Tested @ Alliance ??%	- Horde ??%	
+- Searing Gorge	40 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%	
+- Shimmering Expanse	80 - 82	Contested - Not Tested @ Alliance ??%	- Horde ??%	
 - Silverpine Forest	10 - 60	Horde - Not Tested @ ??%		
-- Stranglethorn Vale	30 - 50	Contested - Not Tested @ ??%		
+- Stranglethorn Vale	30 - 50	Contested - Not Tested @ Alliance ??%	- Horde ??%
 - Sunstrider Isle	1 - 20	Horde - Not Tested @ ??%		
-- Swamp of Sorrows	40 - 60	Contested - Not Tested @ ??%		
-- The Cape of Stranglethorn	30 - 60	Contested - Not Tested @ ??%		
-- The Hinterlands	30 - 60	Contested - Not Tested @ ??%		
+- Swamp of Sorrows	40 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%		
+- The Cape of Stranglethorn	30 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%	
+- The Hinterlands	30 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%	
 - Tirisfal Glades	1 - 20	Horde - Not Tested @ ??%		
-- Twilight Highlands	84 - 90	Contested - Not Tested @ ??%		
+- Twilight Highlands	84 - 90	Contested - Not Tested @ Alliance ??%	- Horde ??%
 - Vashj'ir	80 - 82	Contested - Not Tested @ ??%		
-- Western Plaguelands	35 - 60	Contested	 - Not Tested @ ??%	
+- Western Plaguelands	35 - 60	Contested	 - Not Tested @ Alliance ??%	- Horde ??%
 - Westfall	10 - 60	Alliance - Not Tested @ ??%		
 - Wetlands	25 - 60	Alliance - Not Tested @ ??%		
 
 *Kalimdor
 
 - Ammen Vale	1 - 20	Alliance - Not Tested @ ??%	
-- Ashenvale	15 - 60	Contested - Not Tested @ ??%		
+- Ashenvale	15 - 60	Contested - Working @ Alliance 54% [31 Bugged Quests][Scripted] - Horde ??%		
 - Azshara	10 - 60	Horde - Not Tested @ ??%		
 - Azuremyst Isle	1 - 10	Alliance - Not Tested @ ??%		
-- Bilgewater Harbor	1 - 90	Contested - Not Tested @ ??%		
+- Bilgewater Harbor	1 - 90	Contested - Not Tested @ Alliance ??%	- Horde ??%
 - Bloodmyst Isle	10 - 60	Alliance - Not Tested @ ??%		
 - Camp Narache	1 - 20	Horde - Not Tested @ ??%		
 - Darkshore	10 - 60	Alliance - Not Tested @ ??%		
-- Desolace	30 - 60	Contested - Not Tested @ ??%		
+- Desolace	30 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%		
 - Durotar	1 - 20	Horde - Not Tested @ ??%		
-- Dustwallow Marsh	35 - 60	Contested - Not Tested @ ??%		
+- Dustwallow Marsh	35 - 60	Contested - Working @ Alliance ??% - Horde 98%	[3 Bugged Quests][Scripted]	
 - Echo Isles	1 - 20	Horde - Not Tested @ ??%		
-- Felwood	40 - 60	Contested - Not Tested @ ??%		
-- Feralas	35 - 60	Contested - Working @ 97% [3 Bugged Quests][Scripted]		
-- Molten Front	85	Contested - Not Tested @ ??%		
-- Moonglade	1 - 90	Contested - Not Tested @ ??%		
-- Mount Hyjal	80 - 90	Contested - Not Tested @ ??%		
+- Felwood	40 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%		
+- Feralas	35 - 60	Contested - Working @ Alliance 97% [3 Bugged Quests][Scripted] - Horde ??%		
+- Molten Front	85	Contested - Not Tested @ Alliance ??%	- Horde ??%		
+- Moonglade	1 - 90	Contested - Not Tested @ Alliance ??%	- Horde ??%		
+- Mount Hyjal	80 - 90	Contested - Not Tested @ Alliance ??%	- Horde ??%		
 - Mulgore	1 - 20	Horde - Not Tested @ ??%		
 - Northern Barrens	10 - 60	Horde - Not Tested @ ??%		
 - Shadowglen	1 - 20	Alliance - Not Tested @ ??%		
-- Silithus	40 - 60	Contested - Not Tested @ ??%		
-- Southern Barrens	25 - 60	Contested - Not Tested @ ??%		
-- Stonetalon Mountains	20 - 60	Contested - Working @ 51% [Scripted]		
-- Tanaris	40 - 60	Contested - Working @ 66% [14 Bugged Quests][Scripted]
+- Silithus	40 - 60	Contested - Working @ Alliance ??% - Horde 100% [Scripted]  
+- Southern Barrens	25 - 60	Contested - Working @ Alliance ??% - Horde 78%	[14 Bugged Quests][Scripted]	
+- Stonetalon Mountains	20 - 60	Contested - Working @ Alliance 51% [Scripted] - Horde ??%		
+- Tanaris	40 - 60	Contested - Working @ Alliance ??% - Horde 66% [14 Bugged Quests][Scripted]
 - Teldrassil	1 - 20	Alliance - Working @ 100% [Scripted]		
 - Thousand Needles	40 - 60	Contested - Not Tested @ ??%		
 - Uldum	83 - 90	Contested - Not Tested @ ??%		
-- Un'Goro Crater	40 - 60	Contested - Not Tested @ ??%		
+- Un'Goro Crater	40 - 60	Contested - Working @ Alliance ??% - Horde 78% [8 Bugged Quests][Scripted]		
 - Valley of Trials	1 - 20	Horde - Not Tested @ ??%		
 - Winterspring	40 - 60	Contested - Not Tested @ ??%		
 
@@ -175,52 +175,52 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *Outland
 
-- Blade's Edge Mountains - Not Tested @ ??%
-- Hellfire Peninsula - Not Tested @ ??%
-- Nagrand - Not Tested @ ??%
-- Netherstorm - Not Tested @ ??%
-- Shadowmoon Valley - Not Tested @ ??%
-- Terokkar Forest - Not Tested @ ??%
-- Zangarmarsh - Not Tested @ ??%
+- Blade's Edge Mountains - Not Tested @ Alliance ??%	- Horde ??%
+- Hellfire Peninsula - Not Tested @ Alliance ??%	- Horde ??%
+- Nagrand - Not Tested @ Alliance ??%	- Horde ??%
+- Netherstorm - Not Tested @ Alliance ??%	- Horde ??%
+- Shadowmoon Valley - Not Tested @ Alliance ??%	- Horde ??%
+- Terokkar Forest - Not Tested @ Alliance ??%	- Horde ??%
+- Zangarmarsh - Not Tested @ Alliance ??%	- Horde ??%
 
 *Northrend
 
-- Borean Tundra - Not Tested @ ??% 
-- Crystalsong Forest - Not Tested @ ??%  
-- Dragonblight - Not Tested @ ??%
-- Grizzly Hills - Not Tested @ ??%
-- Howling Fjord - Not Tested @ ??%
-- Hrothgar's Landing - Not Tested @ ??%
-- Icecrown - Not Tested @ ??%
-- Wintergrasp - Not Tested @ ??%
-- Sholazar Basin - Not Tested @ ??%
-- Storm Peaks - Not Tested @ ??%
-- Zul'Drak - Not Tested @ ??%
+- Borean Tundra - Not Tested @ Alliance ??%	- Horde ??% 
+- Crystalsong Forest - Not Tested @ Alliance ??%	- Horde ??% 
+- Dragonblight - Not Tested @ Alliance ??%	- Horde ??%
+- Grizzly Hills - Not Tested @ Alliance ??%	- Horde ??%
+- Howling Fjord - Not Tested @ Alliance ??%	- Horde ??%
+- Hrothgar's Landing - Not Tested @ Alliance ??%	- Horde ??%
+- Icecrown - Not Tested @ Alliance ??%	- Horde ??%
+- Wintergrasp - Not Tested @ Alliance ??%	- Horde ??%
+- Sholazar Basin - Not Tested @ Alliance ??%	- Horde ??%
+- Storm Peaks - Not Tested @ Alliance ??%	- Horde ??%
+- Zul'Drak - Not Tested @ Alliance ??%	- Horde ??%
 
 *Pandaria
 
-- Dread Wastes - Not Tested @ ??%
-- Isle of Giants - Not Tested @ ??%
-- Isle of Thunder - Not Tested @ ??%
-- The Jade Forest - Not Tested @ ??%
-- Kun-Lai Summit - Not Tested @ ??%
-- Krasarang Wilds - Not Tested @ ??%
-- Timeless Isle - Not Tested @ ??%
-- Townlong Steppes - Not Tested @ ??% 
-- Vale of Eternal Blossoms - Not Tested @ ??%
-- Valley of the Four Winds - Not Tested @ ??% 
-- Veiled Stair - Not Tested @ ??%
+- Dread Wastes - Not Tested @ Alliance ??%	- Horde ??%
+- Isle of Giants - Not Tested @ Alliance ??%	- Horde ??%
+- Isle of Thunder - Not Tested @ Alliance ??%	- Horde ??%
+- The Jade Forest - Not Tested @ Alliance ??%	- Horde ??%
+- Kun-Lai Summit - Not Tested @ Alliance ??%	- Horde ??%
+- Krasarang Wilds - Not Tested @ Alliance ??%	- Horde ??%
+- Timeless Isle - Not Tested @ Alliance ??%	- Horde ??%
+- Townlong Steppes - Not Tested @ Alliance ??%	- Horde ??% 
+- Vale of Eternal Blossoms - Not Tested @ Alliance ??%	- Horde ??%
+- Valley of the Four Winds - Not Tested @ Alliance ??%	- Horde ??% 
+- Veiled Stair - Not Tested @ Alliance ??%	- Horde ??%
 
 *Draenor
 
-- Frostfire Ridge - Working @ 52%
-- Shadowmoon Valley - Working @ 64%
-- Gorgrond - Not Working @ 25%
-- Talador - Not Working @ 15%
-- Spires of Arak - Not Working @ 35%
-- Nagrand - Not Working @ 45%
-- Tanaan Jungle - Not Working @ 37%
-- Ashran - Working @ 54%
+- Frostfire Ridge - Not Working @ Alliance ??%	- Horde ??%
+- Shadowmoon Valley - Not Working @ Alliance ??%	- Horde ??%
+- Gorgrond - Not Working @ Alliance ??%	- Horde ??%
+- Talador - Not Working @ Alliance ??%	- Horde ??%
+- Spires of Arak - Not Working @ Alliance ??%	- Horde ??%
+- Nagrand - Not Working @ Alliance ??%	- Horde ??%
+- Tanaan Jungle - Not Working @ Alliance ??%	- Horde ??%
+- Ashran - Not Working @ Alliance ??%	- Horde ??%
 
 ------------------------------------------------------------------------------------
 
@@ -248,6 +248,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Ragefire Chasm - Not Tested @ ??%  	
 - The Deadmines - Not Tested @ ??%  
 - Wailing Caverns - Not Tested @ ??%  
+- Stormwind Stockades - Working @ 100% [Scripted]  
 - Shadowfang Keep - Not Tested @ ??%  
 - Blackfathom Deeps - Not Tested @ ??%  
 - Gnomeregan - Not Tested @ ??% 
@@ -406,7 +407,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Advanced Pathfinding - Working @ 89%
 - AoE Loot - Not Working @ 22%
 - Achievements - Working @ 91%
-- Account-Wide Collections (Mounts, Heirlooms, Pets) - Working @ 65%
+- Account-Wide Collections (Mounts, Heirlooms, Pets) - Working @ 65% - Crashes wow.exe if "You Don't Have A Mount In Collection"
 - Transmogrifier - Working @ 100%
 - Void Storage - Working @ 100%
 - Base & Bonus Stats - Working @ 92%
@@ -418,7 +419,14 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Timewalker Dungeons - Not Working @ 32%
 - Personal Loot - Working @ 100%
 - Group Loot - Not Working @ 45%
-- RDF/LRF - Not Working @ 48%
+- Random Dungeon Finder - Not Working @ 48%
+- Looking For Raid - Not Working @ 42%
+- Scenarios - Not Working @ 22%
+- Clean Up Bag - Not Working @ 12%
+- Bank - Working @ 75%
+- Arena Skirmish - Not Working @ 45%
+- Rated Battlegrounds - Not Working @ 39%
+
 
 ------------------------------------------------------------------------------------
 
