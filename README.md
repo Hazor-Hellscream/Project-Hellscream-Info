@@ -71,7 +71,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *Horde
 
-- Eversong Woods (Blood Elf @ 98%) - Working [Scripted]
+- Eversong Woods (Blood Elf @ 100%) - Working [Scripted]
 - Durotar (Orc @ 99%) - Working [Scripted]
 - Echo Isles (Troll @ 98%) - Working [Scripted]
 - Kezan (Goblin @ 46%) - Not Working [Not-Scripted]
@@ -125,7 +125,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Sunstrider Isle	1 - 20	Horde - Not Tested @ ??%		
 - Swamp of Sorrows	40 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%		
 - The Cape of Stranglethorn	30 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%	
-- The Hinterlands	30 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%	
+- The Hinterlands	30 - 60	Contested - Working @ Alliance 65% [9 Bugged Quests][Scripted]	- Horde ??%	
 - Tirisfal Glades	1 - 20	Horde - Not Tested @ ??%		
 - Twilight Highlands	84 - 90	Contested - Not Tested @ Alliance ??%	- Horde ??%
 - Vashj'ir	80 - 82	Contested - Not Tested @ ??%		
@@ -136,7 +136,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 *Kalimdor
 
 - Ammen Vale	1 - 20	Alliance - Not Tested @ ??%	
-- Ashenvale	15 - 60	Contested - Working @ Alliance 54% [31 Bugged Quests][Scripted] - Horde ??%		
+- Ashenvale	15 - 60	Contested - Working @ Alliance 54% [31 Bugged Quests][Scripted] - Horde 52% [29 Bugged Quests][Scripted]		
 - Azshara	10 - 60	Horde - Not Tested @ ??%		
 - Azuremyst Isle	1 - 10	Alliance - Not Tested @ ??%		
 - Bilgewater Harbor	1 - 90	Contested - Not Tested @ Alliance ??%	- Horde ??%
@@ -157,7 +157,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Shadowglen	1 - 20	Alliance - Not Tested @ ??%		
 - Silithus	40 - 60	Contested - Working @ Alliance ??% - Horde 100% [Scripted]  
 - Southern Barrens	25 - 60	Contested - Working @ Alliance ??% - Horde 78%	[14 Bugged Quests][Scripted]	
-- Stonetalon Mountains	20 - 60	Contested - Working @ Alliance 51% [Scripted] - Horde ??%		
+- Stonetalon Mountains	20 - 60	Contested - Working @ Alliance 51% [?? Bugged Quests][Scripted] - Horde 46% [22 Bugged Quests][Scripted]		
 - Tanaris	40 - 60	Contested - Working @ Alliance ??% - Horde 66% [14 Bugged Quests][Scripted]
 - Teldrassil	1 - 20	Alliance - Working @ 100% [Scripted]		
 - Thousand Needles	40 - 60	Contested - Not Tested @ ??%		
