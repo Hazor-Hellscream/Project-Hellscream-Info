@@ -66,7 +66,8 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Elwynn Forest (Human @ 100%) - Working [Scripted]
 - Gilneas (Worgen @ 5%) - Not Working [Not-Scripted]
 - Teldrassil (Night Elf @ 100%) - Working [Scripted]
-- Dun Morogh (Dwarf/Gnome @ 85%) - Working [Scripted]
+- Dun Morogh (Dwarf @ 85%) - Working [Scripted]
+- Gnomeregan (Gnome @ 10%) - Not Working 
 - Azuremyst Isle & Bloodmyst Isle (Draenei @ 90%) - Working [Scripted]
 
 *Horde
@@ -143,7 +144,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Bloodmyst Isle	10 - 60	Alliance - Not Tested @ ??%		
 - Camp Narache	1 - 20	Horde - Not Tested @ ??%		
 - Darkshore	10 - 60	Alliance - Not Tested @ ??%		
-- Desolace	30 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%		
+- Desolace	30 - 60	Contested - Not Working @ Alliance ??%	- Horde 27%	[40 Bugged Quests]		
 - Durotar	1 - 20	Horde - Not Tested @ ??%		
 - Dustwallow Marsh	35 - 60	Contested - Working @ Alliance ??% - Horde 98%	[3 Bugged Quests][Scripted]	
 - Echo Isles	1 - 20	Horde - Not Tested @ ??%		
@@ -156,7 +157,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Northern Barrens	10 - 60	Horde - Not Tested @ ??%		
 - Shadowglen	1 - 20	Alliance - Not Tested @ ??%		
 - Silithus	40 - 60	Contested - Working @ Alliance ??% - Horde 100% [Scripted]  
-- Southern Barrens	25 - 60	Contested - Working @ Alliance ??% - Horde 78%	[14 Bugged Quests][Scripted]	
+- Southern Barrens	25 - 60	Contested - Working @ Alliance 68% [16 Bugged Quests][Scripted]	- Horde 78%	[14 Bugged Quests][Scripted]	
 - Stonetalon Mountains	20 - 60	Contested - Working @ Alliance 51% [?? Bugged Quests][Scripted] - Horde 46% [22 Bugged Quests][Scripted]		
 - Tanaris	40 - 60	Contested - Working @ Alliance ??% - Horde 66% [14 Bugged Quests][Scripted]
 - Teldrassil	1 - 20	Alliance - Working @ 100% [Scripted]		
@@ -185,7 +186,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *Northrend
 
-- Borean Tundra - Not Tested @ Alliance ??%	- Horde ??% 
+- Borean Tundra - Working @ Alliance 80% [25 Bugged Quests][Scripted]	- Horde ??% 
 - Crystalsong Forest - Not Tested @ Alliance ??%	- Horde ??% 
 - Dragonblight - Not Tested @ Alliance ??%	- Horde ??%
 - Grizzly Hills - Not Tested @ Alliance ??%	- Horde ??%
@@ -405,7 +406,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 ## Core Mechanics
 
 - Advanced Pathfinding - Working @ 89%
-- AoE Loot - Not Working @ 22%
+- AoE Loot - Not Working @ 49% - Progress made will be in next update.
 - Achievements - Working @ 91%
 - Account-Wide Collections (Mounts, Heirlooms, Pets) - Working @ 90% - [Mounts Are Not Account-Wide]
 - Transmogrifier - Working @ 100%
@@ -419,13 +420,13 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Timewalker Dungeons - Not Working @ 32%
 - Personal Loot - Working @ 100%
 - Group Loot - Not Working @ 45%
-- Random Dungeon Finder - Not Working @ 48%
+- Random Dungeon Finder - Not Working @ 48% - Progress made will be in next few update. 
 - Looking For Raid - Not Working @ 42%
 - Scenarios - Not Working @ 22%
 - Clean Up Bag - Not Working @ 12%
 - Bank - Working @ 75%
 - Arena Skirmish - Not Working @ 45%
-- Rated Battlegrounds - Not Working @ 39%
+- Rated Battlegrounds - Not Working @ 48% - Progress made will be in next few update. 
 
 
 ------------------------------------------------------------------------------------
