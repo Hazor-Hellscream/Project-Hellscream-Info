@@ -76,7 +76,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Durotar (Orc @ 99%) - Working [Scripted]
 - Echo Isles (Troll @ 98%) - Working [Scripted]
 - Kezan (Goblin @ 46%) - Not Working [Not-Scripted]
-- Mulgore (Tauren @ 85%) - Working [Scripted]
+- Mulgore (Tauren @ 90%) - Working [Scripted]
 - Trisfal Glades (Undead @ 100%) - Working [Scripted]
 
 *Neutral
@@ -111,7 +111,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Hillsbrad Foothills	15 - 60	Horde - Not Tested @ ??%		
 - Isle of Quel'Danas	70	Contested - Not Tested @ Alliance ??%	- Horde ??%	
 - Kelp'thar Forest	80 - 90	Contested - Not Tested @ Alliance ??%	- Horde ??%	
-- Loch Modan	10 - 60	Alliance - Working @ 98%	[1 Bugged Quests][Scripted]			
+- Loch Modan	10 - 60	Alliance - Working @ 100%	[Scripted]			
 - New Tinkertown	1 - 20	Alliance - Not Tested @ ??%		
 - Northern Stranglethorn	25 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%		
 - Northshire	1 - 20	Alliance - Not Tested @ ??%		
@@ -126,13 +126,13 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Sunstrider Isle	1 - 20	Horde - Not Tested @ ??%		
 - Swamp of Sorrows	40 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%		
 - The Cape of Stranglethorn	30 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%	
-- The Hinterlands	30 - 60	Contested - Working @ Alliance 65% [9 Bugged Quests][Scripted]	- Horde ??%	
+- The Hinterlands	30 - 60	Contested - Working @ Alliance 71% [8 Bugged Quests][Scripted]	- Horde ??%	
 - Tirisfal Glades	1 - 20	Horde - Not Tested @ ??%		
 - Twilight Highlands	84 - 90	Contested - Not Tested @ Alliance ??%	- Horde ??%
 - Vashj'ir	80 - 82	Contested - Not Tested @ ??%		
 - Western Plaguelands	35 - 60	Contested	 - Not Tested @ Alliance ??%	- Horde ??%
-- Westfall	10 - 60	Alliance - Not Tested @ ??%		
-- Wetlands	25 - 60	Alliance - Working @ 97% [2 Bugged Quests][Scripted]		
+- Westfall	10 - 60	Alliance - Not Tested @	
+- Wetlands	25 - 60	Alliance - Working @ 100% [Scripted]		
 
 *Kalimdor
 
