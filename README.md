@@ -1,4 +1,4 @@
-# Project-Hellscream™-Information [Version 0.0.7a]
+# Project-Hellscream™-Information [Version 0.0.8]
 ------------------------------------------------------------------------------------
 
 ## Information and Updates
@@ -406,7 +406,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 ## Core Mechanics
 
 - Advanced Pathfinding - Working @ 89%
-- AoE Loot - Not Working @ 49% - Progress made will be in next update.
+- AoE Loot - Working @ 100%
 - Achievements - Working @ 91%
 - Account-Wide Collections (Mounts, Heirlooms, Pets) - Working @ 90% - [Mounts Are Not Account-Wide]
 - Transmogrifier - Working @ 100%
@@ -420,7 +420,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Timewalker Dungeons - Not Working @ 32%
 - Personal Loot - Working @ 100%
 - Group Loot - Not Working @ 45%
-- Random Dungeon Finder - Not Working @ 48% - Progress made will be in next few update. 
+- Random Dungeon Finder - Working @ 99% 
 - Looking For Raid - Not Working @ 42%
 - Scenarios - Not Working @ 22%
 - Clean Up Bag - Not Working @ 12%
