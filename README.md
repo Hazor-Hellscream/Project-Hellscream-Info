@@ -237,7 +237,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Rogue - Playable @ 72%
 - Shaman - Playable @ 68%
 - Warlock - Not Playable @ 35%
-- Warrior - Playable @ 74%
+- Warrior - Playable @ 78% - Charge fixed.
 
 ------------------------------------------------------------------------------------
 
