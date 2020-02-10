@@ -132,7 +132,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Deeprun Tram	1 - 100	Alliance	Transit - Not Tested @ ??%	
 - Dun Morogh	1 - 20	Alliance - Not Tested @ ??%		
 - Duskwood	20 - 60	Alliance - Working @ 99% [2 Bugged Quests][Scripted]				
-- Eastern Plaguelands	40 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%
+- Eastern Plaguelands	40 - 60	Contested - Working @ Alliance 68% [22 Bugged Quests][Scripted]	- Horde ??%
 - Elwynn Forest	1 - 20	Alliance - Not Tested @ ??%		
 - Eversong Woods	1 - 20	Horde - Not Tested @ ??%		
 - Ghostlands	10 - 60	Horde - Not Tested @ ??%		
@@ -160,7 +160,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Tirisfal Glades	1 - 20	Horde - Not Tested @ ??%		
 - Twilight Highlands	84 - 90	Contested - Not Tested @ Alliance ??%	- Horde ??%
 - Vashj'ir	80 - 82	Contested - Not Tested @ ??%		
-- Western Plaguelands	35 - 60	Contested	 - Not Tested @ Alliance ??%	- Horde ??%
+- Western Plaguelands	35 - 60	Contested	 - Working @ Alliance 62% [17 Bugged Quests][Scripted]	- Horde ??%
 - Westfall	10 - 60	Alliance - Not Tested @??%
 - Wetlands	25 - 60	Alliance - Working @ 100% [Scripted]		
 
@@ -191,8 +191,8 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Stonetalon Mountains	20 - 60	Contested - Working @ Alliance 51% [?? Bugged Quests][Scripted] - Horde 46% [22 Bugged Quests][Scripted]		
 - Tanaris	40 - 60	Contested - Working @ Alliance ??% - Horde 66% [14 Bugged Quests][Scripted]
 - Teldrassil	1 - 20	Alliance - Working @ 100% [Scripted]		
-- Thousand Needles	40 - 60	Contested - Not Tested @ ??%		
-- Uldum	83 - 90	Contested - Not Tested @ ??%		
+- Thousand Needles	40 - 60	Contested - Working @ Alliance ??% - Horde 63%	[22 Bugged Quests][Scripted]		
+- Uldum	83 - 90	Contested - Not Tested @ Alliance ??% - Horde ??%		
 - Un'Goro Crater	40 - 60	Contested - Working @ Alliance ??% - Horde 78% [8 Bugged Quests][Scripted]		
 - Valley of Trials	1 - 20	Horde - Not Tested @ ??%		
 - Winterspring	40 - 60	Contested - Not Tested @ ??%		
@@ -277,9 +277,9 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 - Ragefire Chasm - Not Tested @ ??%  	
 - The Deadmines - Not Tested @ ??%  
-- Wailing Caverns - Not Tested @ ??%  
+- Wailing Caverns - Working @ 52% [Not Scripted]  
 - Stormwind Stockades - Working @ 100% [Scripted]  
-- Shadowfang Keep - Not Tested @ ??%  
+- Shadowfang Keep - Not Working @ 38% [Not Scripted]   
 - Blackfathom Deeps - Not Tested @ ??%  
 - Gnomeregan - Not Tested @ ??% 
 - Scarlet Halls - Not Tested @ ??%  
