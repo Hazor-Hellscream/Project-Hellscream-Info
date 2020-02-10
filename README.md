@@ -161,7 +161,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Twilight Highlands	84 - 90	Contested - Not Tested @ Alliance ??%	- Horde ??%
 - Vashj'ir	80 - 82	Contested - Not Tested @ ??%		
 - Western Plaguelands	35 - 60	Contested	 - Working @ Alliance 62% [17 Bugged Quests][Scripted]	- Horde ??%
-- Westfall	10 - 60	Alliance - Not Tested @??%
+- Westfall	10 - 60	Alliance - Working @ 90% [Scripted]		
 - Wetlands	25 - 60	Alliance - Working @ 100% [Scripted]		
 
 *Kalimdor
