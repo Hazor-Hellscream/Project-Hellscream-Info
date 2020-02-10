@@ -77,7 +77,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Echo Isles (Troll @ 98%) - Working [Scripted]
 - Kezan (Goblin @ 46%) - Not Working [Not-Scripted]
 - Mulgore (Tauren @ 90%) - Working [Scripted]
-- Trisfal Glades (Undead @ 100%) - Working [Scripted]
+- Trisfal Glades (Undead @ 91%) - Not Working [Scripted]
 
 *Neutral
 
@@ -131,7 +131,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Twilight Highlands	84 - 90	Contested - Not Tested @ Alliance ??%	- Horde ??%
 - Vashj'ir	80 - 82	Contested - Not Tested @ ??%		
 - Western Plaguelands	35 - 60	Contested	 - Not Tested @ Alliance ??%	- Horde ??%
-- Westfall	10 - 60	Alliance - Not Tested @	
+- Westfall	10 - 60	Alliance - Not Tested @??%
 - Wetlands	25 - 60	Alliance - Working @ 100% [Scripted]		
 
 *Kalimdor
@@ -238,7 +238,6 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Shaman - Playable @ 68%
 - Warlock - Not Playable @ 35%
 - Warrior - Playable @ 74%
-
 
 ------------------------------------------------------------------------------------
 
@@ -406,11 +405,11 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 ## Core Mechanics
 
 - Advanced Pathfinding - Working @ 89%
-- AoE Loot - Working @ 100%
+- AoE Loot - Working @ 100% - Fixed loot range on AoE Loot.
 - Achievements - Working @ 91%
 - Account-Wide Collections (Mounts, Heirlooms, Pets) - Working @ 90% - [Mounts Are Not Account-Wide]
 - Transmogrifier - Working @ 100%
-- Void Storage - Working @ 100%
+- Void Storage - Working @ 70%
 - Base & Bonus Stats - Working @ 92%
 - Battle-Pet System - Working @ 76%
 - Brawler - Not Working @ 41%
@@ -419,7 +418,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Followers - Working @ 81%
 - Timewalker Dungeons - Not Working @ 32%
 - Personal Loot - Working @ 100%
-- Group Loot - Not Working @ 45%
+- Group Loot - Not Working @ 49%
 - Random Dungeon Finder - Working @ 99% 
 - Looking For Raid - Not Working @ 42%
 - Scenarios - Not Working @ 22%
@@ -427,7 +426,6 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Bank - Working @ 75%
 - Arena Skirmish - Not Working @ 45%
 - Rated Battlegrounds - Not Working @ 48% - Progress made will be in next few update. 
-
 
 ------------------------------------------------------------------------------------
 
