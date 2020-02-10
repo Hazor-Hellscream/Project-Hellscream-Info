@@ -4,6 +4,8 @@
 ## Information and Updates
 
 * [Cut Content](#cut-content)
+* [How To Play?](#how-to-play?)
+* [Our Dedicated Server Specs](#our-dedicated-server-specs)
 * [Discord](#discord)
 * [Classes](#classes)
 * [Core Mechanics](#core-mechanics)
@@ -20,7 +22,24 @@
 
 ## About Project Hellscream™ 6.2.4a
 
-Project Hellscream™ is a 6.2.4a project based off Trinitycore 6.04/6.24a is a MMORPG Framework based mostly in C++. It is private sourced. https://hellscream.org
+Project Hellscream™ is a 6.2.4a project based off Trinitycore is a MMORPG Framework based mostly in C++. It is private sourced. https://hellscream.org
+
+------------------------------------------------------------------------------------
+
+## How To Play?
+
+1. First of all, you must create an account. The account is used to log into both the game and our website. https://www.hellscream.org/register.
+
+-Remember login with your Email/Password.
+
+2. Download Hellscream 6.2.4a Client Here:
+
+Google Drive - Direct Link
+https://drive.google.com/uc?export=download&confirm=TmtM&id=0B5tB6kl-RQNmbVpBWHQyS291Mjg
+
+Torrent Link - Is on the website's nav bar "Download WoD"
+
+You may now start playing! If you need any help, please report all bugs here https://github.com/Hazor-Hellscream/Project-Hellscream-Info/issues.
 
 ------------------------------------------------------------------------------------
 
@@ -56,6 +75,17 @@ Project Hellscream™ is a 6.2.4a project based off Trinitycore 6.04/6.24a is a 
 
 *All Sources From Here
 https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delayed-content-in-Warlords-of-Draenor
+
+------------------------------------------------------------------------------------
+
+## Our Dedicated Server Specs
+
+- Intel-7 16xCores
+- 2x1TB SAS
+- 32 GB DDR4 ECC 2133 MHz
+- 1000Mbps Full-Duplex
+- Traffic Unlimited
+- Location France
 
 ------------------------------------------------------------------------------------
 
