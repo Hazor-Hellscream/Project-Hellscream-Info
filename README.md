@@ -94,10 +94,10 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 *Alliance
 
 - Elwynn Forest (Human @ 100%) - Working [Scripted]
-- Gilneas (Worgen @ 5%) - Not Working [Not-Scripted]
+- Gilneas (Worgen @ 5%) - Not Working [Not-Scripted] [In-Development] 
 - Teldrassil (Night Elf @ 100%) - Working [Scripted]
 - Dun Morogh (Dwarf @ 85%) - Working [Scripted]
-- Gnomeregan (Gnome @ 10%) - Not Working 
+- Gnomeregan (Gnome @ 10%) - Not Working [In-Development] 
 - Azuremyst Isle & Bloodmyst Isle (Draenei @ 90%) - Working [Scripted]
 
 *Horde
@@ -105,13 +105,13 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Eversong Woods (Blood Elf @ 100%) - Working [Scripted]
 - Durotar (Orc @ 99%) - Working [Scripted]
 - Echo Isles (Troll @ 98%) - Working [Scripted]
-- Kezan (Goblin @ 46%) - Not Working [Not-Scripted]
+- Kezan (Goblin @ 46%) - Not Working [Not-Scripted] [In-Development] 
 - Mulgore (Tauren @ 90%) - Working [Scripted]
-- Trisfal Glades (Undead @ 91%) - Not Working [Scripted]
+- Trisfal Glades (Undead @ 100%) - Working [Scripted]
 
 *Neutral
 
-- The Wandering Isle (Pandaren @ 5%) - Not Working [Not-Scripted]
+- The Wandering Isle (Pandaren @ 38%) - Not Working [In-Development] - Making progression on this zone.
 
 ------------------------------------------------------------------------------------
 
@@ -157,7 +157,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Swamp of Sorrows	40 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%		
 - The Cape of Stranglethorn	30 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%	
 - The Hinterlands	30 - 60	Contested - Working @ Alliance 71% [8 Bugged Quests][Scripted]	- Horde ??%	
-- Tirisfal Glades	1 - 20	Horde - Not Tested @ ??%		
+- Tirisfal Glades	1 - 20	Horde - Working @ 98%	[Scripted]
 - Twilight Highlands	84 - 90	Contested - Not Tested @ Alliance ??%	- Horde ??%
 - Vashj'ir	80 - 82	Contested - Not Tested @ ??%		
 - Western Plaguelands	35 - 60	Contested	 - Working @ Alliance 62% [17 Bugged Quests][Scripted]	- Horde ??%
@@ -264,10 +264,10 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Monk - Not Playable @ 44%
 - Paladin - Playable @ 63%
 - Priest - Playable @ 70%
-- Rogue - Playable @ 72%
+- Rogue - Playable @ 75% - Stealth now working.
 - Shaman - Playable @ 68%
 - Warlock - Not Playable @ 35%
-- Warrior - Playable @ 85% [Core/Spell] - Fix issue where Spell Reflect and Mass Spell Reflect causes server to crash.
+- Warrior - Playable @ 87% - [Core/Spell] - Fixed all issues with Shield Barrier.
 
 ------------------------------------------------------------------------------------
 
@@ -277,7 +277,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 - Ragefire Chasm - Not Tested @ ??%  	
 - The Deadmines - Not Tested @ ??%  
-- Wailing Caverns - Working @ 52% [Not Scripted]  
+- Wailing Caverns - Not Working @ 48% [Not Scripted]  
 - Stormwind Stockades - Working @ 100% [Scripted]  
 - Shadowfang Keep - Not Working @ 38% [Not Scripted]   
 - Blackfathom Deeps - Not Tested @ ??%  
@@ -434,8 +434,8 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 ## Core Mechanics
 
-- Advanced Pathfinding - Working @ 89%
-- AoE Loot - Working @ 100% - Fixed loot range on AoE Loot.
+- Advanced Pathfinding - Working @ 100%
+- AoE Loot - Working @ 100%
 - Achievements - Working @ 91%
 - Account-Wide Collections (Mounts, Heirlooms, Pets) - Working @ 90% - [Mounts Are Not Account-Wide]
 - Transmogrifier - Working @ 100%
@@ -448,7 +448,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Followers - Working @ 81%
 - Timewalker Dungeons - Not Working @ 32%
 - Personal Loot - Working @ 100%
-- Group Loot - Working @ 98%
+- Group Loot - Working @ 98% - Still needs some packet work.
 - Random Dungeon Finder - Working @ 99% 
 - Looking For Raid - Not Working @ 42%
 - Scenarios - Not Working @ 22%
