@@ -1,4 +1,4 @@
-# Project-Hellscream™-Information [Version 0.0.8a]
+# Project-Hellscream™-Information [Version 0.0.8b]
 ------------------------------------------------------------------------------------
 
 ## Information and Updates
@@ -104,7 +104,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 - Eversong Woods (Blood Elf @ 100%) - Working [Scripted]
 - Durotar (Orc @ 99%) - Working [Scripted]
-- Echo Isles (Troll @ 98%) - Working [Scripted]
+- Echo Isles (Troll @ 98%) - Working [Scripted] - DB/Quest: Fixed quest Proving Pit for all troll classes. 
 - Kezan (Goblin @ 46%) - Not Working [Not-Scripted] [In-Development] 
 - Mulgore (Tauren @ 90%) - Working [Scripted]
 - Trisfal Glades (Undead @ 100%) - Working [Scripted]
@@ -122,10 +122,10 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Abyssal Depths	80 - 82	Contested - Not Tested @ Alliance ??%	- Horde ??%
 - Alterac Mountains	25 - 30	Contested - Not Tested @ Alliance ??%	- Horde ??%	
 - Arathi Highlands	25 - 60	Contested - Working @ Alliance 100% [Scripted]	- Horde ??%
-- Badlands	40 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%	
+- Badlands	40 - 60	Contested - Not Working @ Alliance 34% [23 Bugged Quests][Scripted]	- Horde ??%	
 - Blackrock Mountain	50 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%		
 - Blasted Lands	40 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%		
-- Burning Steppes	40 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%
+- Burning Steppes	40 - 60	Contested - Not Working @ Alliance 35% [26 Bugged Quests]	- Horde ??%
 - Coldridge Valley	1 - 20	Alliance - Not Tested @ ??%		
 - Deadwind Pass	50 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%
 - Deathknell	1 - 20	Horde - Not Tested @ ??%		
@@ -149,7 +149,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Redridge Mountains	15 - 60	Alliance - Not Tested @ ??%		
 - Ruins of Gilneas	14 - 20	Alliance - Not Tested @ ??%		
 - Ruins of Gilneas City		Contested - Not Tested @ Alliance ??%	- Horde ??%	
-- Searing Gorge	40 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%	
+- Searing Gorge	40 - 60	Contested - Not Working @ Alliance 28% [25 Bugged Quests]	- Horde ??%	
 - Shimmering Expanse	80 - 82	Contested - Not Tested @ Alliance ??%	- Horde ??%	
 - Silverpine Forest	10 - 60	Horde - Not Tested @ ??%		
 - Stranglethorn Vale	30 - 50	Contested - Not Tested @ Alliance ??%	- Horde ??%
@@ -176,7 +176,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Darkshore	10 - 60	Alliance - Not Tested @ ??%		
 - Desolace	30 - 60	Contested - Not Working @ Alliance ??%	- Horde 27%	[40 Bugged Quests]		
 - Durotar	1 - 20	Horde - Not Tested @ ??%		
-- Dustwallow Marsh	35 - 60	Contested - Working @ Alliance ??% - Horde 98%	[3 Bugged Quests][Scripted]	
+- Dustwallow Marsh	35 - 60	Contested - Working @ Alliance 88% [7 Bugged Quests][Scripted]	 - Horde 98%	[3 Bugged Quests][Scripted]	
 - Echo Isles	1 - 20	Horde - Not Tested @ ??%		
 - Felwood	40 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%		
 - Feralas	35 - 60	Contested - Working @ Alliance 97% [3 Bugged Quests][Scripted] - Horde ??%		
@@ -265,9 +265,9 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Paladin - Playable @ 63%
 - Priest - Playable @ 70%
 - Rogue - Playable @ 75% - Stealth now working.
-- Shaman - Playable @ 68%
+- Shaman - Playable @ 75% - Core/Spells: Fixed Shaman talent Ancestral Guidance.
 - Warlock - Not Playable @ 35%
-- Warrior - Playable @ 87% - [Core/Spell] - Fixed all issues with Shield Barrier.
+- Warrior - Playable @ 87% - Core/Spell: - Fixed all issues with Shield Barrier.
 
 ------------------------------------------------------------------------------------
 
