@@ -98,20 +98,20 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Teldrassil (Night Elf @ 100%) - Working [Scripted]
 - Dun Morogh (Dwarf @ 85%) - Working [Scripted]
 - Gnomeregan (Gnome @ 10%) - Not Working [In-Development] 
-- Azuremyst Isle & Bloodmyst Isle (Draenei @ 90%) - Working [Scripted]
+- Azuremyst Isle & Bloodmyst Isle (Draenei @ 100%) - Working [Scripted]
 
 *Horde
 
 - Eversong Woods (Blood Elf @ 100%) - Working [Scripted]
-- Durotar (Orc @ 99%) - Working [Scripted]
-- Echo Isles (Troll @ 98%) - Working [Scripted] - DB/Quest: Fixed quest Proving Pit for all troll classes. 
-- Kezan (Goblin @ 46%) - Not Working [Not-Scripted] [In-Development] 
-- Mulgore (Tauren @ 90%) - Working [Scripted]
+- Durotar (Orc @ 100%) - Working [Scripted]
+- Echo Isles (Troll @ 99%) - Working [Scripted] 
+- Kezan (Goblin @ 60%) - Working [Not-Scripted] [In-Development] 
+- Mulgore (Tauren @ 99%) - Working [Scripted]
 - Trisfal Glades (Undead @ 100%) - Working [Scripted]
 
 *Neutral
 
-- The Wandering Isle (Pandaren @ 38%) - Not Working [In-Development] - Making progression on this zone.
+- The Wandering Isle (Pandaren @ 54%) - Working [In-Development] - Making progression on this zone.
 
 ------------------------------------------------------------------------------------
 
