@@ -161,7 +161,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Twilight Highlands	84 - 90	Contested - Not Tested @ Alliance ??%	- Horde ??%
 - Vashj'ir	80 - 82	Contested - Not Tested @ ??%		
 - Western Plaguelands	35 - 60	Contested	 - Working @ Alliance 62% [17 Bugged Quests][Scripted]	- Horde ??%
-- Westfall	10 - 60	Alliance - Working @ 90% [Scripted]		
+- Westfall	10 - 60	Alliance - Working @ 100% [Scripted]		
 - Wetlands	25 - 60	Alliance - Working @ 100% [Scripted]		
 
 *Kalimdor
@@ -199,10 +199,11 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *The Great Sea
 
-- Kezan - Not Tested @ ??%
-- Lost Isles - Not Tested @ ??%
-- The Maelstrom - Not Tested @ ??%
-- Wandering Isle - Not Working @ 41%
+- Kezan - Working @ 87%
+- Deepholm - Working @ 100% [Scripted]
+- Lost Isles - Not Working @ ??%
+- The Maelstrom - Working @ 100% [Scripted]
+- Wandering Isle - Working @ 56%
 
 *Outland
 
@@ -257,7 +258,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 ## Classes
 
-- Death Knight - Not Playable @ 46%
+- Death Knight - Playable @ 67%
 - Druid - Playable @ 51% 
 - Hunter - Playable @ 56% 
 - Mage - Playable @ 69%
@@ -266,7 +267,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Priest - Playable @ 70%
 - Rogue - Playable @ 75% - Stealth now working.
 - Shaman - Playable @ 75% - Core/Spells: Fixed Shaman talent Ancestral Guidance.
-- Warlock - Not Playable @ 35%
+- Warlock - Playable @ 51% - Core/Spells: Fixed Fear.
 - Warrior - Playable @ 87% - Core/Spell: - Fixed all issues with Shield Barrier.
 
 ------------------------------------------------------------------------------------
@@ -277,7 +278,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 - Ragefire Chasm - Not Tested @ ??%  	
 - The Deadmines - Not Tested @ ??%  
-- Wailing Caverns - Not Working @ 48% [Not Scripted]  
+- Wailing Caverns - Working @ 100% [Scripted]  
 - Stormwind Stockades - Working @ 100% [Scripted]  
 - Shadowfang Keep - Not Working @ 38% [Not Scripted]   
 - Blackfathom Deeps - Not Tested @ ??%  
@@ -338,7 +339,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 - Throne of the Tides - Not Tested @ ??%
 - Blackrock Caverns - Not Tested @ ??%
-- The Stonecore - Not Tested @ ??% 
+- The Stonecore - Working @ 100% [Scripted] 
 - The Vortex Pinnacle - Not Tested @ ??% 
 - Grim Batol - Not Tested @ ??%
 - Halls of Origination - Not Tested @ ??% 	
