@@ -449,7 +449,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Followers - Working @ 81%
 - Timewalker Dungeons - Not Working @ 32%
 - Personal Loot - Working @ 100%
-- Group Loot - Working @ 98% - Still needs some packet work.
+- Group Loot - Working @ 100%
 - Random Dungeon Finder - Working @ 99% 
 - Looking For Raid - Not Working @ 42%
 - Scenarios - Not Working @ 22%
