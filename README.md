@@ -276,12 +276,12 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *Classic Dungeons
 
-- Ragefire Chasm - Not Tested @ ??%  	
-- The Deadmines - Not Tested @ ??%  
-- Wailing Caverns - Working @ 100% [Scripted]  
-- Stormwind Stockades - Working @ 100% [Scripted]  
+- Ragefire Chasm - Not Spawned @ 50% [Scripted] 	
+- The Deadmines - Not Working @ 45%  
+- Wailing Caverns - Working @ 97% [Scripted] - Need Npc_narlex fixed/Gossip. 
+- Stormwind Stockades - Working @ 97% [Scripted] - Needs loot added to mobs/bosses. 
 - Shadowfang Keep - Not Working @ 38% [Not Scripted]   
-- Blackfathom Deeps - Not Tested @ ??%  
+- Blackfathom Deeps - Not Working @ Old Version Of Dungeon 0% [Not Scripted] 
 - Gnomeregan - Not Tested @ ??% 
 - Scarlet Halls - Not Tested @ ??%  
 - Scarlet Monastery - Not Tested @ ??% 
