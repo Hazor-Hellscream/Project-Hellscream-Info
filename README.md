@@ -43,6 +43,14 @@ You may now start playing! If you need any help, please report all bugs here htt
 
 ------------------------------------------------------------------------------------
 
+## Discord
+
+Interested in helping "Project Hellscream" with Alpha testing please join our discord.
+
+Discord invite link: https://discord.gg/CWCF3C9
+
+------------------------------------------------------------------------------------
+
 ## Cut Content
 
 - The Chronal Spire Intro Will Replace *The Dark Portal Intro WoD [Quest Chain] 
@@ -545,9 +553,3 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Tarlna the Ageless - Not Tested @ ??%
 
 ------------------------------------------------------------------------------------
-
-## Discord
-
-Interested in helping "Project Hellscream" with Alpha testing please join our discord.
-
-Discord invite link: https://discord.gg/CWCF3C9
