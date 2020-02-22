@@ -34,9 +34,9 @@ Project Hellscream™ is a 6.2 project based off Trinitycore is a MMORPG Framewo
 
 2. Download Project Hellscream Client's Here:
 
-- Mini-Client: 
+- Mini-Client: https://www.hellscream.org/downloads/Project_Hellscream_0.1.0-Mini_Client.rar
 
-- Full-Client:
+- Full-Client: http://logon.hellscream.org/Project%20Hellscream%20%5bFull%20Client%5d.rar
 
 You may now start playing! If you need any help, please report all bugs here https://github.com/Hazor-Hellscream/Project-Hellscream-Info/issues.
 
