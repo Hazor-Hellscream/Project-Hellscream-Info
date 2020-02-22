@@ -1,4 +1,4 @@
-# Project-Hellscream™-Information [Version 0.0.8b]
+# Project-Hellscream™-Information [Version 0.1.0] Beta
 ------------------------------------------------------------------------------------
 
 ## Information and Updates
@@ -22,7 +22,7 @@
 
 ## About Project Hellscream™ 6.2.4a
 
-Project Hellscream™ is a 6.2.4a project based off Trinitycore is a MMORPG Framework based mostly in C++. It is private sourced. https://hellscream.org
+Project Hellscream™ is a 6.2 project based off Trinitycore is a MMORPG Framework based mostly in C++. It is private sourced. https://hellscream.org
 
 ------------------------------------------------------------------------------------
 
@@ -30,14 +30,13 @@ Project Hellscream™ is a 6.2.4a project based off Trinitycore is a MMORPG Fram
 
 1. First of all, you must create an account. The account is used to log into both the game and our website. https://www.hellscream.org/register.
 
--Remember login with your Email/Password.
+- Remember login with your Email/Password.
 
-2. Download Hellscream 6.2.4a Client Here:
+2. Download Project Hellscream Client's Here:
 
-Google Drive - Direct Link
-https://drive.google.com/uc?export=download&confirm=TmtM&id=0B5tB6kl-RQNmbVpBWHQyS291Mjg
+- Mini-Client: 
 
-Torrent Link - Is on the website's nav bar "Download WoD"
+- Full-Client:
 
 You may now start playing! If you need any help, please report all bugs here https://github.com/Hazor-Hellscream/Project-Hellscream-Info/issues.
 
@@ -96,9 +95,9 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Elwynn Forest (Human @ 100%) - Working [Scripted]
 - Gilneas (Worgen @ 5%) - Not Working [Not-Scripted] [In-Development] 
 - Teldrassil (Night Elf @ 100%) - Working [Scripted]
-- Dun Morogh (Dwarf @ 85%) - Working [Scripted]
-- Gnomeregan (Gnome @ 10%) - Not Working [In-Development] 
-- Azuremyst Isle & Bloodmyst Isle (Draenei @ 100%) - Working [Scripted]
+- Dun Morogh (Dwarf @ 93%) - Working [Scripted]
+- Gnomeregan (Gnome @ 92%) - Working [Scripted] 
+- Azuremyst Isle & Bloodmyst Isle (Draenei @ 45%) - Not Working [Scripted]
 
 *Horde
 
@@ -258,17 +257,17 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 ## Classes
 
-- Death Knight - Playable @ 67%
-- Druid - Playable @ 51% 
-- Hunter - Playable @ 56% 
-- Mage - Playable @ 69%
-- Monk - Not Playable @ 44%
-- Paladin - Playable @ 63%
-- Priest - Playable @ 70%
-- Rogue - Playable @ 75% - Stealth now working.
-- Shaman - Playable @ 75% - Core/Spells: Fixed Shaman talent Ancestral Guidance.
-- Warlock - Playable @ 51% - Core/Spells: Fixed Fear.
-- Warrior - Playable @ 87% - Core/Spell: - Fixed all issues with Shield Barrier.
+- Death Knight - Playable @ 98%
+- Druid - Playable @ 94% 
+- Hunter - Playable @ 98% 
+- Mage - Playable @ 99%
+- Monk - Playable @ 93%
+- Paladin - Playable @ 96%
+- Priest - Playable @ 99%
+- Rogue - Playable @ 98%
+- Shaman - Playable @ 92% 
+- Warlock - Playable @ 96% - Only 4 broken spells.
+- Warrior - Playable @ 97% 
 
 ------------------------------------------------------------------------------------
 
@@ -277,10 +276,10 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 *Classic Dungeons
 
 - Ragefire Chasm - Not Spawned @ 50% [Scripted] 	
-- The Deadmines - Not Working @ 45%  
-- Wailing Caverns - Working @ 97% [Scripted] - Need Npc_narlex fixed/Gossip. 
-- Stormwind Stockades - Working @ 97% [Scripted] - Needs loot added to mobs/bosses. 
-- Shadowfang Keep - Not Working @ 38% [Not Scripted]   
+- The Deadmines - Working @ 100% [Scripted]  
+- Wailing Caverns - Working @ 97% [Scripted]
+- Stormwind Stockades - Working @ 100% [Scripted]
+- Shadowfang Keep - Working @ 99% [Scripted] 
 - Blackfathom Deeps - Not Working @ Old Version Of Dungeon 0% [Not Scripted] 
 - Gnomeregan - Not Tested @ ??% 
 - Scarlet Halls - Not Tested @ ??%  
@@ -436,44 +435,44 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 ## Core Mechanics
 
 - Advanced Pathfinding - Working @ 100%
-- AoE Loot - Working @ 100%
+- AoE Loot - Not Working @ 50%
 - Achievements - Working @ 91%
 - Account-Wide Collections (Mounts, Heirlooms, Pets) - Working @ 90% - [Mounts Are Not Account-Wide]
 - Transmogrifier - Working @ 100%
-- Void Storage - Working @ 70%
-- Base & Bonus Stats - Working @ 92%
-- Battle-Pet System - Working @ 76%
-- Brawler - Not Working @ 41%
-- Garrisons - Working @ 85%
-- Shipyards - Working @ 52%
-- Followers - Working @ 81%
-- Timewalker Dungeons - Not Working @ 32%
+- Void Storage - Working @ 100%
+- Base & Bonus Stats - Working @ 100%
+- Battle-Pet System - Working @ 100%
+- Brawler - Working @ 100%
+- Garrisons - Working @ 94% 
+- Shipyards - Working @ 75%
+- Followers - Working @ 96%
+- Timewalker Dungeons - Working @ 100%
 - Personal Loot - Working @ 100%
 - Group Loot - Working @ 100%
-- Random Dungeon Finder - Working @ 99% 
-- Looking For Raid - Not Working @ 42%
-- Scenarios - Not Working @ 22%
-- Clean Up Bag - Not Working @ 12%
-- Bank - Working @ 75%
-- Arena Skirmish - Not Working @ 45%
-- Rated Battlegrounds - Not Working @ 48% - Progress made will be in next few update. 
+- Random Dungeon Finder - Working @ 100% 
+- Looking For Raid - Working @ 100%
+- Scenarios - Working @ 100%
+- Clean Up Bag - Working @ 100%
+- Bank - Working @ 100%
+- Arena Skirmish - Working @ 100%
+- Rated Battlegrounds - Working @ 100%
 
 ------------------------------------------------------------------------------------
 
 ## Professions
 
-- Alchemy - Not Tested @ ??%
-- Blacksmithing - Not Tested @ ??%
-- Inscription - Not Tested @ ??%
-- Jewelcrafting - Not Tested @ ??%
-- Mining - Not Tested @ ??%
-- Tailoring - Not Tested @ ??%
-- Engineering - Not Tested @ ??%
-- Herbalism - Not Tested @ ??%
-- Enchanting - Not Tested @ ??%
-- Leatherworking - Not Tested @ ??%
-- Skinning - Not Tested @ ??%
-- Archaeology - Not Tested @ ??%
+- Alchemy - Working @ 100%
+- Blacksmithing - Working @ 100%
+- Inscription - Working @ 100%
+- Jewelcrafting - Working @ 100%
+- Mining - Working @ 100%
+- Tailoring - Working @ 100%
+- Engineering - Working @ 100%
+- Herbalism - Working @ 100%
+- Enchanting - Working @ 100%
+- Leatherworking - Working @ 100%
+- Skinning - Working @ 100%
+- Archaeology - Working @ 67%
 
 ------------------------------------------------------------------------------------
 
@@ -481,23 +480,23 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *Game_Event_Holidays
 
-- Brewfest - Not Tested @ ??%
-- Children's Week - Not Tested @ ??%
-- Day of the Dead - Not Tested @ ??%
-- Feast of Winter Veil - Not Tested @ ??%
-- Fireworks Spectacular - Not Tested @ ??%
-- Hallow's End - Not Tested @ ??%
-- Harvest Festival - Not Tested @ ??%
-- Love is in the Air - Not Tested @ ??%
-- Lunar Festival - Not Tested @ ??%
-- Midsummer Fire Festival - Not Tested @ ??%
-- Noblegarden - Not Tested @ ??%
-- Pilgrim's Bounty - Not Tested @ ??%
-- Pirates Day - Not Tested @ ??%
+- Brewfest - Working @ 75%
+- Children's Week - Working @ 99%
+- Day of the Dead - Working @ 79%
+- Feast of Winter Veil - Working @ 93%
+- Fireworks Spectacular - Working @ 98%
+- Hallow's End - Working @ 96%
+- Harvest Festival - Working @ 98%
+- Love is in the Air - Working @ 98%
+- Lunar Festival - Working @ 95%
+- Midsummer Fire Festival - Working @ 98%
+- Noblegarden - Working @ 92%
+- Pilgrim's Bounty - Working @ 93%
+- Pirates Day - Working @ 91%
 
 *Game_Event
 
-- Arena Skirmish Bonus Event - Not Working @ 31%
+- Arena Skirmish Bonus Event - Working @ 94%
 - Battleground Bonus Event - Not Working @ 44%
 - Cata Timewalking Dungeon Event - Not Working @ 15%
 - Darkmoon Faire - Working @ 67%
