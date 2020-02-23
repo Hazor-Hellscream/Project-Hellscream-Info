@@ -53,7 +53,23 @@ Discord invite link: https://discord.gg/CWCF3C9
 
 ## Cut Content
 
-- The Chronal Spire Intro Will Replace *The Dark Portal Intro WoD [Quest Chain] 
+- Lore/New Intro: 
+
+Wrathion sent Kairoz to get Garrosh to make Ironhorde for Wrathion, only to use the Ironhorde against the coming Legion/Black Empire attacks that Kairoz knew about,
+until of course when Garrosh stabs Kairoz in the back as we see the Spirit of Kairoz in the legendary quest chain in WoD, where you will hear Kairoz saying Garrosh should have trusted me the legion/black empire will be inevitable...
+
+Start Quest Chain in caverns of time:
+
+That takes us all to try stop Garrosh and Kairoz before they teleport to the alternate timeline in the timeless isle, upon failure to stop them we must return to caverns of time to speak to Chromie and Khadgar to teleport into Draenor using the device you just made then 6.x begins.
+
+So a party quest to attempt to stop Garrosh and Kairoz on timeless isle before they teleport to Draenor, also a few more find item quests to make the timeline portal device that Kairoz made/used after the encounter, also can get cinematics done later on after release. 
+
+Npcs to quest for items:
+https://wow.gamepedia.com/Chronalis 
+https://wow.gamepedia.com/Tick_(drake) 
+https://wow.gamepedia.com/Occulus 
+*To get the 3 items to build the item to get to Draenor, after the failure to stop Garrosh forming the Iron Horde.
+
 - Farahlon [Locations]
 - Karabor [Quest Chain][Cities]
 - Fungal Whale World Boss [Locations][World Bosses]
