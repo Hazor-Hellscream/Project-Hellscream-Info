@@ -55,10 +55,9 @@ Discord invite link: https://discord.gg/CWCF3C9
 
 - Lore/New Intro: 
 
-Wrathion sent Kairoz to get Garrosh to make Ironhorde for Wrathion, only to use the Ironhorde against the coming Legion/Black Empire attacks that Kairoz knew about,
-until of course when Garrosh stabs Kairoz in the back as we see the Spirit of Kairoz in the legendary quest chain in WoD, where you will hear Kairoz saying Garrosh should have trusted me the legion/black empire will be inevitable...
+Wrathion sent Kairoz to get Garrosh to make Ironhorde for Wrathion, only to use the Ironhorde against the coming Legion/Black Empire attacks that Kairoz knew about, until of course when Garrosh stabs Kairoz in the back as we see the Spirit of Kairoz. In the legendary quest chain in WoD, where you will hear Kairoz saying Garrosh should have trusted me the legion/black empire will be inevitable now...
 
-Start Quest Chain in caverns of time:
+Start Quest Chain in Caverns of Time:
 
 That takes us all to try stop Garrosh and Kairoz before they teleport to the alternate timeline in the timeless isle, upon failure to stop them we must return to caverns of time to speak to Chromie and Khadgar to teleport into Draenor using the device you just made then 6.x begins.
 
