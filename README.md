@@ -20,7 +20,7 @@
 
 ------------------------------------------------------------------------------------
 
-## About Project Hellscream™ 6.2.4a
+## About Project Hellscream™ 6.2
 
 Project Hellscream™ is a 6.2 project based off Trinitycore is a MMORPG Framework based mostly in C++. It is private sourced. https://hellscream.org
 
@@ -28,16 +28,17 @@ Project Hellscream™ is a 6.2 project based off Trinitycore is a MMORPG Framewo
 
 ## How To Play?
 
-1. First of all, you must create an account. The account is used to log into both the game and our website. https://www.hellscream.org/register.
-
+1. First of all, you must create an account. The account is used to log into both the game and our website
+ here: https://www.hellscream.org/register.
 - Remember login with your Email/Password.
+
 
 2. Download Project Hellscream Client's Here:
 
 - Mini-Client: https://www.hellscream.org/downloads/Project_Hellscream_0.1.0-Mini_Client.rar
-
 - Full-Client: http://logon.hellscream.org/Project%20Hellscream%20%5bFull%20Client%5d.rar
-- Google Drive Link: https://drive.google.com/open?id=1K22SdkD1JiLMR53z_fjYF1nUSzEgNNwc
+- Google Drive Full-Client: https://drive.google.com/open?id=1K22SdkD1JiLMR53z_fjYF1nUSzEgNNwc
+
 
 You may now start playing! If you need any help, please report all bugs here https://github.com/Hazor-Hellscream/Project-Hellscream-Info/issues.
 
