@@ -53,22 +53,7 @@ Discord invite link: https://discord.gg/CWCF3C9
 
 ## Cut Content
 
-- Lore/New Intro: 
-
-Wrathion sent Kairoz to get Garrosh to make Ironhorde for Wrathion, only to use the Ironhorde against the coming Legion/Black Empire attacks that Kairoz knew about, until of course when Garrosh stabs Kairoz in the back as we see the Spirit of Kairoz. In the legendary quest chain in WoD, where you will hear Kairoz saying Garrosh should have trusted me the legion/black empire will be inevitable now...
-
-Start Quest Chain in Caverns of Time:
-
-That takes us all to try stop Garrosh and Kairoz before they teleport to the alternate timeline in the timeless isle, upon failure to stop them we must return to caverns of time to speak to Chromie and Khadgar to teleport into Draenor using the device you just made then 6.x begins.
-
-So a party quest to attempt to stop Garrosh and Kairoz on timeless isle before they teleport to Draenor, also a few more find item quests to make the timeline portal device that Kairoz made/used after the encounter, also can get cinematics done later on after release. 
-
-Npcs to quest for items:
-https://wow.gamepedia.com/Chronalis 
-https://wow.gamepedia.com/Tick_(drake) 
-https://wow.gamepedia.com/Occulus 
-*To get the 3 items to build the item to get to Draenor, after the failure to stop Garrosh forming the Iron Horde.
-
+- New Draenor Intro [In-Development] 
 - Farahlon [Locations]
 - Karabor [Quest Chain][Cities]
 - Fungal Whale World Boss [Locations][World Bosses]
@@ -107,8 +92,8 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - 2x1TB SAS
 - 32 GB DDR4 ECC 2133 MHz
 - 1000Mbps Full-Duplex
-- Traffic Unlimited
-- Location France
+- Traffic: Unlimited
+- Location: France
 
 ------------------------------------------------------------------------------------
 
@@ -117,24 +102,24 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 *Alliance
 
 - Elwynn Forest (Human @ 100%) - Working [Scripted]
-- Gilneas (Worgen @ 5%) - Not Working [Not-Scripted] [In-Development] 
+- Gilneas (Worgen @ 75%) - Working [Scripted][In-Development] - Made more progression on this zone.
 - Teldrassil (Night Elf @ 100%) - Working [Scripted]
 - Dun Morogh (Dwarf @ 93%) - Working [Scripted]
 - Gnomeregan (Gnome @ 92%) - Working [Scripted] 
-- Azuremyst Isle & Bloodmyst Isle (Draenei @ 45%) - Not Working [Scripted]
+- Azuremyst Isle & Bloodmyst Isle (Draenei @ 100%) - Working [Scripted]
 
 *Horde
 
 - Eversong Woods (Blood Elf @ 100%) - Working [Scripted]
 - Durotar (Orc @ 100%) - Working [Scripted]
 - Echo Isles (Troll @ 99%) - Working [Scripted] 
-- Kezan (Goblin @ 60%) - Working [Not-Scripted] [In-Development] 
+- Kezan (Goblin @ 76%) - Working [Scripted][In-Development] - Made More progression on this zone.
 - Mulgore (Tauren @ 99%) - Working [Scripted]
-- Trisfal Glades (Undead @ 100%) - Working [Scripted]
+- Trisfal Glades (Undead @ 99%) - Working [Scripted]
 
 *Neutral
 
-- The Wandering Isle (Pandaren @ 54%) - Working [In-Development] - Making progression on this zone.
+- The Wandering Isle (Pandaren @ 67%) - Working [In-Development] - Made More progression on this zone.
 
 ------------------------------------------------------------------------------------
 
@@ -268,18 +253,20 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *Draenor
 
-- Frostfire Ridge - Not Working @ Alliance ??%	- Horde ??%
-- Shadowmoon Valley - Not Working @ Alliance ??%	- Horde ??%
+- Frostfire Ridge - Working @ Horde 92% [Scripted]
+- Shadowmoon Valley - Working @ Alliance 86% [Scripted]
 - Gorgrond - Not Working @ Alliance ??%	- Horde ??%
 - Talador - Not Working @ Alliance ??%	- Horde ??%
 - Spires of Arak - Not Working @ Alliance ??%	- Horde ??%
 - Nagrand - Not Working @ Alliance ??%	- Horde ??%
 - Tanaan Jungle - Not Working @ Alliance ??%	- Horde ??%
-- Ashran - Not Working @ Alliance ??%	- Horde ??%
+- Ashran - Working @ Alliance 89%	- Horde 90% [Scripted]
 
 ------------------------------------------------------------------------------------
 
 ## Classes
+
+*Blizzlike 6.2 Spells/Talents %'s.
 
 - Death Knight - Playable @ 98%
 - Druid - Playable @ 94% 
@@ -290,7 +277,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Priest - Playable @ 99%
 - Rogue - Playable @ 98%
 - Shaman - Playable @ 92% 
-- Warlock - Playable @ 96% - Only 4 broken spells.
+- Warlock - Playable @ 96%
 - Warrior - Playable @ 97% 
 
 ------------------------------------------------------------------------------------
@@ -299,12 +286,12 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *Classic Dungeons
 
-- Ragefire Chasm - Not Spawned @ 50% [Scripted] 	
+- Ragefire Chasm - Working @ 90% [Scripted] 	
 - The Deadmines - Working @ 100% [Scripted]  
 - Wailing Caverns - Working @ 97% [Scripted]
 - Stormwind Stockades - Working @ 100% [Scripted]
 - Shadowfang Keep - Working @ 99% [Scripted] 
-- Blackfathom Deeps - Not Working @ Old Version Of Dungeon 0% [Not Scripted] 
+- Blackfathom Deeps - Not Tested @ ??%
 - Gnomeregan - Not Tested @ ??% 
 - Scarlet Halls - Not Tested @ ??%  
 - Scarlet Monastery - Not Tested @ ??% 
@@ -362,7 +349,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 - Throne of the Tides - Not Tested @ ??%
 - Blackrock Caverns - Not Tested @ ??%
-- The Stonecore - Working @ 100% [Scripted] 
+- The Stonecore - Working @ 93% [Scripted] 
 - The Vortex Pinnacle - Not Tested @ ??% 
 - Grim Batol - Not Tested @ ??%
 - Halls of Origination - Not Tested @ ??% 	
@@ -404,9 +391,9 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *Classic Raids
 
-- Ruins of Ahn'Qiraj - Not Tested @ ??%  
 - Molten Core - Not Tested @ ??% 
 - Blackwing Lair - Not Tested @ ??% 
+- Ruins of Ahn'Qiraj - Not Tested @ ??%  
 - Temple of Ahn'Qiraj - Not Tested @ ??% 
 
 *Tbc Raids
@@ -458,16 +445,16 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 ## Core Mechanics
 
-- Advanced Pathfinding - Working @ 100%
-- AoE Loot - Not Working @ 50%
+- Advanced Pathfinding mMaps/vMaps - Working @ 100%
+- AoE Loot - Working @ 50%
 - Achievements - Working @ 91%
-- Account-Wide Collections (Mounts, Heirlooms, Pets) - Working @ 90% - [Mounts Are Not Account-Wide]
+- Account-Wide Collections (Mounts, Heirlooms, Pets, Toys) - Working @ 60%
 - Transmogrifier - Working @ 100%
-- Void Storage - Working @ 100%
-- Base & Bonus Stats - Working @ 100%
-- Battle-Pet System - Working @ 100%
+- Void Storage - Working @ 99%
+- Base & Bonus Stats - Working @ 98%
+- Battle-Pet - Working @ 96%
 - Brawler - Working @ 100%
-- Garrisons - Working @ 94% 
+- Garrisons - Working @ 91%
 - Shipyards - Working @ 75%
 - Followers - Working @ 96%
 - Timewalker Dungeons - Working @ 100%
@@ -475,27 +462,31 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Group Loot - Working @ 100%
 - Random Dungeon Finder - Working @ 100% 
 - Looking For Raid - Working @ 100%
-- Scenarios - Working @ 100%
+- Scenarios - Working @ 89%
 - Clean Up Bag - Working @ 100%
 - Bank - Working @ 100%
 - Arena Skirmish - Working @ 100%
-- Rated Battlegrounds - Working @ 100%
+- Rated Battlegrounds - Working @ 99%
+- Mail - Not Working @ 47%
+- Guild - Working @ 99%
+- Bonus Objectives - Working @ 98%
+- Treasures - Working @ 96%
 
 ------------------------------------------------------------------------------------
 
 ## Professions
 
-- Alchemy - Working @ 100%
-- Blacksmithing - Working @ 100%
-- Inscription - Working @ 100%
-- Jewelcrafting - Working @ 100%
-- Mining - Working @ 100%
-- Tailoring - Working @ 100%
-- Engineering - Working @ 100%
-- Herbalism - Working @ 100%
-- Enchanting - Working @ 100%
-- Leatherworking - Working @ 100%
-- Skinning - Working @ 100%
+- Alchemy - Working @ 99%
+- Blacksmithing - Working @ 99%
+- Inscription - Working @ 99%
+- Jewelcrafting - Working @ 99%
+- Mining - Working @ 99%
+- Tailoring - Working @ 99%
+- Engineering - Working @ 99%
+- Herbalism - Working @ 99%
+- Enchanting - Working @ 99%
+- Leatherworking - Working @ 99%
+- Skinning - Working @ 99%
 - Archaeology - Working @ 67%
 
 ------------------------------------------------------------------------------------
@@ -521,13 +512,14 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 *Game_Event
 
 - Arena Skirmish Bonus Event - Working @ 94%
-- Battleground Bonus Event - Not Working @ 44%
-- Cata Timewalking Dungeon Event - Not Working @ 15%
-- Darkmoon Faire - Working @ 67%
-- Northrend Timewalking Dungeon Event - Not Working @ 35%
-- Outland Timewalking Dungeon Event - Not Working @ 25%
-- Pet Battle Bonus Event - Not Working @ 5%
-- Stranglethorn Fishing Extravaganza - Working @ 85%
+- Battleground Bonus Event - Working @ 98%
+- Cata Timewalking Dungeon Event - Working @ 95%
+- Darkmoon Faire - Working @ 98%
+- Northrend Timewalking Dungeon Event - Working @ 99%
+- Outland Timewalking Dungeon Event - Working @ 98%
+- Pet Battle Bonus Event - Working @ 96%
+- Stranglethorn Fishing Extravaganza - Working @ 95%
+- WoD Dungeon Bonus Event - Working @ 100%
 
 ------------------------------------------------------------------------------------
 
