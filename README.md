@@ -46,7 +46,7 @@ You may now start playing! If you need any help, please report all bugs here htt
 
 ## Discord
 
-Interested in helping "Project Hellscream" with Alpha testing please join our discord.
+Interested in helping "Project Hellscream" with Beta testing please join our discord, with our community of over 300 discord members.
 
 Discord invite link: https://discord.gg/CWCF3C9
 
