@@ -1,4 +1,4 @@
-# Project Hellscream™ - Information [0.1.0] Open-Beta
+# Project Hellscream™ - Information [0.1.0a] Open-Beta
 ------------------------------------------------------------------------------------
 
 ## Information and Updates
@@ -131,17 +131,17 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Abyssal Depths	80 - 82	Contested - Not Tested @ Alliance ??%	- Horde ??%
 - Alterac Mountains	25 - 30	Contested - Not Tested @ Alliance ??%	- Horde ??%	
 - Arathi Highlands	25 - 60	Contested - Working @ Alliance 100% [Scripted]	- Horde ??%
-- Badlands	40 - 60	Contested - Not Working @ Alliance 34% [23 Bugged Quests][Scripted]	- Horde ??%	
+- Badlands	40 - 60	Contested - Not Working @ Alliance ??% [Scripted]	- Horde ??%	
 - Blackrock Mountain	50 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%		
 - Blasted Lands	40 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%		
-- Burning Steppes	40 - 60	Contested - Not Working @ Alliance 35% [26 Bugged Quests]	- Horde ??%
+- Burning Steppes	40 - 60	Contested - Not Working @ Alliance ??% - Horde ??%
 - Coldridge Valley	1 - 20	Alliance - Not Tested @ ??%		
 - Deadwind Pass	50 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%
 - Deathknell	1 - 20	Horde - Not Tested @ ??%		
 - Deeprun Tram	1 - 100	Alliance	Transit - Not Tested @ ??%	
 - Dun Morogh	1 - 20	Alliance - Not Tested @ ??%		
 - Duskwood	20 - 60	Alliance - Working @ 99% [2 Bugged Quests][Scripted]				
-- Eastern Plaguelands	40 - 60	Contested - Working @ Alliance 68% [22 Bugged Quests][Scripted]	- Horde ??%
+- Eastern Plaguelands	40 - 60	Contested - Working @ Alliance ??%[Scripted]	- Horde ??%
 - Elwynn Forest	1 - 20	Alliance - Not Tested @ ??%		
 - Eversong Woods	1 - 20	Horde - Not Tested @ ??%		
 - Ghostlands	10 - 60	Horde - Not Tested @ ??%		
@@ -447,8 +447,8 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 ## Core Mechanics
 
 - Advanced Pathfinding mMaps/vMaps - Working @ 100%
-- AoE Loot - Working @ 50%
-- Achievements - Working @ 91%
+- AoE Loot - Working @ 90%
+- Achievements - Working @ 96%
 - Account-Wide Collections (Mounts, Heirlooms, Pets, Toys) - Working @ 60%
 - Transmogrifier - Working @ 100%
 - Void Storage - Working @ 99%
@@ -468,7 +468,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Bank - Working @ 100%
 - Arena Skirmish - Working @ 100%
 - Rated Battlegrounds - Working @ 99%
-- Mail - Not Working @ 47%
+- Mail - Working @ 65%
 - Guild - Working @ 99%
 - Bonus Objectives - Working @ 98%
 - Treasures - Working @ 96%
