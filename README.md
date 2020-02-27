@@ -256,12 +256,12 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 - Frostfire Ridge - Working @ Horde 92% [Scripted]
 - Shadowmoon Valley - Working @ Alliance 86% [Scripted]
-- Gorgrond - Not Working @ Alliance ??%	- Horde ??%
-- Talador - Not Working @ Alliance ??%	- Horde ??%
-- Spires of Arak - Not Working @ Alliance ??%	- Horde ??%
-- Nagrand - Not Working @ Alliance ??%	- Horde ??%
-- Tanaan Jungle - Not Working @ Alliance ??%	- Horde ??%
-- Ashran - Working @ Alliance 89%	- Horde 90% [Scripted]
+- Gorgrond - Working @ Alliance 67% - Horde 65%[Scripted]
+- Talador - Working @ Alliance 80% - Horde 74%[Scripted]
+- Spires of Arak -  Working @ Alliance 68% - Horde 78%[Scripted]
+- Nagrand - Working @ Alliance 76%	- Horde 87%[Scripted]
+- Tanaan Jungle - Working @ Alliance 87% - Horde 82%[Scripted]
+- Ashran - Working @ Alliance 89% - Horde 90% [Scripted]
 
 ------------------------------------------------------------------------------------
 
