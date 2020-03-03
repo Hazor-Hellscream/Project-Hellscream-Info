@@ -268,17 +268,17 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *Blizzlike 6.2 Spells/Talents %'s.
 
-- Death Knight - Playable @ 98%
-- Druid - Playable @ 94% 
-- Hunter - Playable @ 98% 
-- Mage - Playable @ 99%
-- Monk - Playable @ 93%
-- Paladin - Playable @ 96%
+- Death Knight - Playable @ 98% - Need to fix [Blood] aggro.
+- Druid - Playable @ 98%  - Fixed [Force of Nature] all specs.
+- Hunter - Playable @ 99% 
+- Mage - Playable @ 97% - Need to fix [Conjure Refreshment Table].
+- Monk - Playable @ 99% - Fixed [Summon Jade Serpent].
+- Paladin - Playable @ 99%
 - Priest - Playable @ 99%
-- Rogue - Playable @ 98%
-- Shaman - Playable @ 92% 
-- Warlock - Playable @ 96%
-- Warrior - Playable @ 97% 
+- Rogue - Playable @ 99% - Fixed [Death From Above].
+- Shaman - Playable @ 99% 
+- Warlock - Playable @ 98%
+- Warrior - Playable @ 99% - Fixed [Heroic Leap]. 
 
 ------------------------------------------------------------------------------------
 
@@ -349,7 +349,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 - Throne of the Tides - Not Tested @ ??%
 - Blackrock Caverns - Not Tested @ ??%
-- The Stonecore - Working @ 93% [Scripted] 
+- The Stonecore - Working @ 98% [Scripted] 
 - The Vortex Pinnacle - Not Tested @ ??% 
 - Grim Batol - Not Tested @ ??%
 - Halls of Origination - Not Tested @ ??% 	
@@ -376,7 +376,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *WoD Dungeons
 
-- Bloodmaul Slag Mines - Not Tested @ ??%
+- Bloodmaul Slag Mines - Working @ 100% [Scripted]
 - Iron Docks - Not Tested @ ??% 
 - Auchindoun - Not Tested @ ??%
 - Skyreach - Not Tested @ ??%
@@ -437,7 +437,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *WoD Raids
 
-- Highmaul - Not Tested @ ??%
+- Highmaul - Working @ 90% [Scripted] - Needs some more phasing work on outside area.
 - Blackrock Foundry - Not Tested @ ??%
 - Hellfire Citadel - Not Tested @ ??%
  
@@ -451,12 +451,12 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Account-Wide Collections (Mounts, Heirlooms, Pets, Toys) - Working @ 60%
 - Transmogrifier - Working @ 100%
 - Void Storage - Working @ 99%
-- Base & Bonus Stats - Working @ 98%
-- Battle-Pet - Working @ 96%
+- Base & Bonus Stats - Working @ 100%
+- Battle-Pet - Working @ 100%
 - Brawler - Working @ 100%
 - Garrisons - Working @ 91%
 - Shipyards - Working @ 75%
-- Followers - Working @ 96%
+- Followers - Working @ 100%
 - Timewalker Dungeons - Working @ 100%
 - Personal Loot - Working @ 100%
 - Group Loot - Working @ 100%
@@ -466,11 +466,11 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Clean Up Bag - Working @ 100%
 - Bank - Working @ 100%
 - Arena Skirmish - Working @ 100%
-- Rated Battlegrounds - Working @ 99%
-- Mail - Working @ 65%
-- Guild - Working @ 99%
-- Bonus Objectives - Working @ 98%
-- Treasures - Working @ 96%
+- Rated Battlegrounds - Working @ 100%
+- Mail - Working @ 90%
+- Guild - Working @ 100%
+- Bonus Objectives - Working @ 100%
+- Treasures - Working @ 100%
 
 ------------------------------------------------------------------------------------
 
