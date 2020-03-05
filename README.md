@@ -103,10 +103,10 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 *Alliance
 
 - Elwynn Forest (Human @ 100%) - Working [Scripted]
-- Gilneas (Worgen @ 75%) - Working [Scripted][In-Development] - Made more progression on this zone.
+- Gilneas (Worgen @ 85%) - Working [In-Development] - Made more progression on this zone.
 - Teldrassil (Night Elf @ 100%) - Working [Scripted]
-- Dun Morogh (Dwarf @ 93%) - Working [Scripted]
-- Gnomeregan (Gnome @ 92%) - Working [Scripted] 
+- Dun Morogh (Dwarf @ 100%) - Working [Scripted]
+- Gnomeregan (Gnome @ 97%) - Working [Scripted] 
 - Azuremyst Isle & Bloodmyst Isle (Draenei @ 100%) - Working [Scripted]
 
 *Horde
@@ -114,13 +114,13 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Eversong Woods (Blood Elf @ 100%) - Working [Scripted]
 - Durotar (Orc @ 100%) - Working [Scripted]
 - Echo Isles (Troll @ 99%) - Working [Scripted] 
-- Kezan (Goblin @ 76%) - Working [Scripted][In-Development] - Made More progression on this zone.
-- Mulgore (Tauren @ 99%) - Working [Scripted]
-- Trisfal Glades (Undead @ 99%) - Working [Scripted]
+- Kezan (Goblin @ 76%) - Working [In-Development] - More progression on this zone.
+- Mulgore (Tauren @ 100%) - Working [Scripted]
+- Trisfal Glades (Undead @ 100%) - Working [Scripted]
 
 *Neutral
 
-- The Wandering Isle (Pandaren @ 67%) - Working [In-Development] - Made More progression on this zone.
+- The Wandering Isle (Pandaren @ 77%) - Working [In-Development] - More progression on this zone.
 
 ------------------------------------------------------------------------------------
 
@@ -208,11 +208,11 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *The Great Sea
 
-- Kezan - Working @ 87%
+- Kezan - Working @ 87% [Scripted]
 - Deepholm - Working @ 100% [Scripted]
-- Lost Isles - Not Working @ ??%
+- Lost Isles - Working @ 67% [Scripted]
 - The Maelstrom - Working @ 100% [Scripted]
-- Wandering Isle - Working @ 56%
+- Wandering Isle - Working @ 56% [Scripted]
 
 *Outland
 
@@ -254,14 +254,14 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *Draenor
 
-- Frostfire Ridge - Working @ Horde 92% [Scripted]
-- Shadowmoon Valley - Working @ Alliance 86% [Scripted]
-- Gorgrond - Working @ Alliance 67% - Horde 65%[Scripted]
-- Talador - Working @ Alliance 80% - Horde 74%[Scripted]
-- Spires of Arak -  Working @ Alliance 68% - Horde 78%[Scripted]
-- Nagrand - Working @ Alliance 76%	- Horde 87%[Scripted]
-- Tanaan Jungle - Working @ Alliance 87% - Horde 82%[Scripted]
-- Ashran - Working @ Alliance 89% - Horde 90% [Scripted]
+- Frostfire Ridge - Working @ Horde 94% [Scripted]
+- Shadowmoon Valley - Working @ Alliance 93% [Scripted]
+- Gorgrond - Working @ Alliance 87% - Horde 95% [Scripted]
+- Talador - Working @ Alliance 80% - Horde 84% [Scripted]
+- Spires of Arak -  Working @ Alliance 88% - Horde 86% [Scripted]
+- Nagrand - Not Working @ Alliance 46%	- Horde 47% [Not-Scripted] - Needs work done to core scripts for main quest chain.
+- Tanaan Jungle - Working @ Alliance 87% - Horde 84% [Scripted] - Needs spawns added.
+- Ashran - Working @ Alliance 97% - Horde 96% [Scripted]
 
 ------------------------------------------------------------------------------------
 
@@ -380,10 +380,10 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Bloodmaul Slag Mines - Working @ 100% [Scripted]
 - Iron Docks - Not Tested @ ??% 
 - Auchindoun - Not Tested @ ??%
-- Skyreach - Not Tested @ ??%
+- Skyreach - Working @ 98% [Scripted]
 - Grimrail Depot - Not Tested @ ??%
 - Shadowmoon Burial Grounds - Not Tested @ ??%
-- The Everbloom - Not Tested @ ??%
+- The Everbloom - Not Working @ 49% [Scripted] - Can't get to last boss.
 - Upper Blackrock Spire - Not Tested @ ??%
 
 ------------------------------------------------------------------------------------
@@ -447,19 +447,19 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 ## Core Mechanics
 
 - Advanced Pathfinding mMaps/vMaps - Working @ 100%
-- AoE Loot - Working @ 90%
+- AoE Loot - Not Working @ 45% - Will be fixed in next few updates.
 - Achievements - Working @ 96%
 - Account-Wide Collections (Mounts, Heirlooms, Pets, Toys) - Working @ 60%
 - Transmogrifier - Working @ 100%
-- Void Storage - Working @ 99%
+- Void Storage - Working @ 100%
 - Base & Bonus Stats - Working @ 100%
 - Battle-Pet - Working @ 100%
 - Brawler - Working @ 100%
-- Garrisons - Working @ 91%
-- Shipyards - Working @ 75%
+- Garrisons - Working @ 94%
+- Shipyards - Working @ 91%
 - Followers - Working @ 100%
 - Timewalker Dungeons - Working @ 100%
-- Personal Loot - Working @ 100%
+- Personal Loot [LFR] - Working @ 100%
 - Group Loot - Working @ 100%
 - Random Dungeon Finder - Working @ 100% 
 - Looking For Raid - Working @ 100%
@@ -468,7 +468,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Bank - Working @ 100%
 - Arena Skirmish - Working @ 100%
 - Rated Battlegrounds - Working @ 100%
-- Mail - Working @ 90%
+- Mail - Working @ 45% - Will be worked on in next few updates.
 - Guild - Working @ 100%
 - Bonus Objectives - Working @ 100%
 - Treasures - Working @ 100%
@@ -488,7 +488,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Enchanting - Working @ 99%
 - Leatherworking - Working @ 99%
 - Skinning - Working @ 99%
-- Archaeology - Working @ 67%
+- Archaeology - Working @ 67% - Still needs some work.
 
 ------------------------------------------------------------------------------------
 
@@ -518,7 +518,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Darkmoon Faire - Working @ 98%
 - Northrend Timewalking Dungeon Event - Working @ 99%
 - Outland Timewalking Dungeon Event - Working @ 98%
-- Pet Battle Bonus Event - Working @ 96%
+- Pet Battle Bonus Event - Working @ 100%
 - Stranglethorn Fishing Extravaganza - Working @ 95%
 - WoD Dungeon Bonus Event - Working @ 100%
 
@@ -555,9 +555,9 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *Draenor
 
-- Drov the Ruiner - Not Tested @ ??%
-- Rukhmar - Not Tested @ ??%
-- Supreme Lord Kazzak - Not Tested @ ??%
-- Tarlna the Ageless - Not Tested @ ??%
+ - Drov the Ruiner - Working @ 100% [Scripted]
+ - Rukhmar - Working @ 100% [Scripted]
+ - Supreme Lord Kazzak - Not Tested @ ??%
+ - Tarlna the Ageless - Working @ 100% [Scripted]
 
 ------------------------------------------------------------------------------------
