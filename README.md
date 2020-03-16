@@ -1,4 +1,4 @@
-# Project Hellscream™ - Information [0.1.4a] Open-Beta
+# Project Hellscream™ - Information [0.1.5] Open-Beta
 ------------------------------------------------------------------------------------
 
 ## Information and Updates
