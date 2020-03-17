@@ -3,6 +3,8 @@
 
 ## Information and Updates
 
+All %'s are based on Blizzlike state of 6.2.x patch.
+
 * [Cut Content](#cut-content)
 * [How To Play?](#how-to-play?)
 * [Our Dedicated Server Specs](#our-dedicated-server-specs)
@@ -104,7 +106,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 *Alliance
 
 - Elwynn Forest (Human @ 100%) - Working [Scripted]
-- Gilneas (Worgen @ 85%) - Working [In-Development] - Made more progression on this zone.
+- Gilneas (Worgen @ 85%) - Working [In-Development]
 - Teldrassil (Night Elf @ 100%) - Working [Scripted]
 - Dun Morogh (Dwarf @ 100%) - Working [Scripted]
 - Gnomeregan (Gnome @ 97%) - Working [Scripted] 
@@ -115,13 +117,13 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Eversong Woods (Blood Elf @ 100%) - Working [Scripted]
 - Durotar (Orc @ 100%) - Working [Scripted]
 - Echo Isles (Troll @ 99%) - Working [Scripted] 
-- Kezan (Goblin @ 76%) - Working [In-Development] - More progression on this zone.
+- Kezan (Goblin @ 76%) - Working [In-Development]
 - Mulgore (Tauren @ 100%) - Working [Scripted]
-- Trisfal Glades (Undead @ 100%) - Working [Scripted]
+- Trisfal Glades (Undead @ 94%) - Working [Scripted]
 
 *Neutral
 
-- The Wandering Isle (Pandaren @ 77%) - Working [In-Development] - More progression on this zone.
+- The Wandering Isle (Pandaren @ 77%) - Working [In-Development]
 
 ------------------------------------------------------------------------------------
 
@@ -170,26 +172,26 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Tirisfal Glades	1 - 20	Horde - Working @ 98%	[Scripted]
 - Twilight Highlands	84 - 90	Contested - Not Tested @ Alliance ??%	- Horde ??%
 - Vashj'ir	80 - 82	Contested - Not Tested @ ??%		
-- Western Plaguelands	35 - 60	Contested	 - Working @ Alliance 62% [17 Bugged Quests][Scripted]	- Horde ??%
+- Western Plaguelands	35 - 60	Contested	 - Working @ Alliance 62% [Scripted]	- Horde ??%
 - Westfall	10 - 60	Alliance - Working @ 100% [Scripted]		
 - Wetlands	25 - 60	Alliance - Working @ 100% [Scripted]		
 
 *Kalimdor
 
 - Ammen Vale	1 - 20	Alliance - Not Tested @ ??%	
-- Ashenvale	15 - 60	Contested - Working @ Alliance 54% [31 Bugged Quests][Scripted] - Horde 52% [29 Bugged Quests][Scripted]		
+- Ashenvale	15 - 60	Contested - Working @ Alliance 54% [Scripted] - Horde 52% [Scripted]		
 - Azshara	10 - 60	Horde - Not Tested @ ??%		
 - Azuremyst Isle	1 - 10	Alliance - Not Tested @ ??%		
 - Bilgewater Harbor	1 - 90	Contested - Not Tested @ Alliance ??%	- Horde ??%
 - Bloodmyst Isle	10 - 60	Alliance - Not Tested @ ??%		
 - Camp Narache	1 - 20	Horde - Not Tested @ ??%		
 - Darkshore	10 - 60	Alliance - Not Tested @ ??%		
-- Desolace	30 - 60	Contested - Not Working @ Alliance ??%	- Horde 27%	[40 Bugged Quests]		
+- Desolace	30 - 60	Contested - Not Working @ Alliance ??%	- Horde 27% 		
 - Durotar	1 - 20	Horde - Not Tested @ ??%		
-- Dustwallow Marsh	35 - 60	Contested - Working @ Alliance 88% [7 Bugged Quests][Scripted]	 - Horde 98%	[3 Bugged Quests][Scripted]	
+- Dustwallow Marsh	35 - 60	Contested - Working @ Alliance 88% - Horde 98% [Scripted]	
 - Echo Isles	1 - 20	Horde - Not Tested @ ??%		
 - Felwood	40 - 60	Contested - Not Tested @ Alliance ??%	- Horde ??%		
-- Feralas	35 - 60	Contested - Working @ Alliance 97% [3 Bugged Quests][Scripted] - Horde ??%		
+- Feralas	35 - 60	Contested - Working @ Alliance 97% [Scripted] - Horde ??%		
 - Molten Front	85	Contested - Not Tested @ Alliance ??%	- Horde ??%		
 - Moonglade	1 - 90	Contested - Not Tested @ Alliance ??%	- Horde ??%		
 - Mount Hyjal	80 - 90	Contested - Not Tested @ Alliance ??%	- Horde ??%		
@@ -197,13 +199,13 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Northern Barrens	10 - 60	Horde - Not Tested @ ??%		
 - Shadowglen	1 - 20	Alliance - Not Tested @ ??%		
 - Silithus	40 - 60	Contested - Working @ Alliance ??% - Horde 100% [Scripted]  
-- Southern Barrens	25 - 60	Contested - Working @ Alliance 68% [16 Bugged Quests][Scripted]	- Horde 78%	[14 Bugged Quests][Scripted]	
-- Stonetalon Mountains	20 - 60	Contested - Working @ Alliance 51% [?? Bugged Quests][Scripted] - Horde 46% [22 Bugged Quests][Scripted]		
-- Tanaris	40 - 60	Contested - Working @ Alliance ??% - Horde 66% [14 Bugged Quests][Scripted]
+- Southern Barrens	25 - 60	Contested - Working @ Alliance 68% [Scripted]	- Horde 78% [Scripted]	
+- Stonetalon Mountains	20 - 60	Contested - Working @ Alliance 51% [Scripted] - Horde 46% [Scripted]		
+- Tanaris	40 - 60	Contested - Working @ Alliance ??% - Horde 66% [Scripted]
 - Teldrassil	1 - 20	Alliance - Working @ 100% [Scripted]		
-- Thousand Needles	40 - 60	Contested - Working @ Alliance ??% - Horde 63%	[22 Bugged Quests][Scripted]		
+- Thousand Needles	40 - 60	Contested - Working @ Alliance ??% - Horde 63% [Scripted]		
 - Uldum	83 - 90	Contested - Not Tested @ Alliance ??% - Horde ??%		
-- Un'Goro Crater	40 - 60	Contested - Working @ Alliance ??% - Horde 78% [8 Bugged Quests][Scripted]		
+- Un'Goro Crater	40 - 60	Contested - Working @ Alliance ??% - Horde 78% [Scripted]		
 - Valley of Trials	1 - 20	Horde - Not Tested @ ??%		
 - Winterspring	40 - 60	Contested - Not Tested @ ??%		
 
@@ -211,7 +213,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 - Kezan - Working @ 87% [Scripted]
 - Deepholm - Working @ 100% [Scripted]
-- Lost Isles - Working @ 67% [Scripted]
+- Lost Isles - Working @ 77% [Scripted]
 - The Maelstrom - Working @ 100% [Scripted]
 - Wandering Isle - Working @ 56% [Scripted]
 
@@ -227,7 +229,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *Northrend
 
-- Borean Tundra - Working @ Alliance 80% [25 Bugged Quests][Scripted]	- Horde ??% 
+- Borean Tundra - Working @ Alliance 80% [Scripted]	- Horde ??% 
 - Crystalsong Forest - Not Tested @ Alliance ??%	- Horde ??% 
 - Dragonblight - Not Tested @ Alliance ??%	- Horde ??%
 - Grizzly Hills - Not Tested @ Alliance ??%	- Horde ??%
@@ -255,13 +257,13 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *Draenor
 
-- Frostfire Ridge - Working @ Horde 94% [Scripted]
+- Frostfire Ridge - Working @ Horde 87% [Scripted]
 - Shadowmoon Valley - Working @ Alliance 93% [Scripted]
-- Gorgrond - Working @ Alliance 87% - Horde 95% [Scripted]
-- Talador - Working @ Alliance 80% - Horde 84% [Scripted]
+- Gorgrond - Working @ Alliance 92% - Horde 91% [Scripted]
+- Talador - Working @ Alliance 60% - Horde 62% [Scripted]
 - Spires of Arak -  Working @ Alliance 88% - Horde 86% [Scripted]
-- Nagrand - Not Working @ Alliance 46%	- Horde 47% [Not-Scripted] - Needs work done to core scripts for main quest chain.
-- Tanaan Jungle - Working @ Alliance 87% - Horde 84% [Scripted] - Needs spawns added.
+- Nagrand - Not Working @ Alliance 46%	- Horde 47% [Not-Scripted]
+- Tanaan Jungle [100] - Not Working @ Alliance 45% - Horde 56% [Scripted]
 - Ashran - Working @ Alliance 97% - Horde 96% [Scripted]
 
 ------------------------------------------------------------------------------------
@@ -270,17 +272,17 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *Blizzlike 6.2 Spells/Talents %'s.
 
-- Death Knight - Playable @ 98% - Need to fix [Blood] aggro.
-- Druid - Playable @ 98%  - Fixed [Force of Nature] all specs.
+- Death Knight - Playable @ 99%
+- Druid - Playable @ 99%
 - Hunter - Playable @ 99% 
-- Mage - Playable @ 97% - Need to fix [Conjure Refreshment Table].
-- Monk - Playable @ 99% - Fixed [Summon Jade Serpent].
+- Mage - Playable @ 98%
+- Monk - Playable @ 97%
 - Paladin - Playable @ 99%
 - Priest - Playable @ 99%
-- Rogue - Playable @ 99% - Fixed [Death From Above].
+- Rogue - Playable @ 99%
 - Shaman - Playable @ 99% 
 - Warlock - Playable @ 98%
-- Warrior - Playable @ 99% - Fixed [Heroic Leap]. 
+- Warrior - Playable @ 99%
 
 ------------------------------------------------------------------------------------
 
@@ -289,15 +291,29 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 *Classic Dungeons
 
 - Ragefire Chasm - Working @ 90% [Scripted] 	
+https://cdn.discordapp.com/attachments/643583318574628864/686561292978487353/RFC.PNG
+
 - The Deadmines - Working @ 100% [Scripted]  
+https://cdn.discordapp.com/attachments/643583318574628864/686561328688529433/deadmines.PNG
+
 - Wailing Caverns - Working @ 97% [Scripted]
+https://cdn.discordapp.com/attachments/643583318574628864/686561419575164967/WC.PNG
+
 - Stormwind Stockades - Working @ 100% [Scripted]
+https://cdn.discordapp.com/attachments/643583318574628864/686561389073924116/Stockades.PNG
+
 - Shadowfang Keep - Working @ 99% [Scripted] 
+https://cdn.discordapp.com/attachments/643583318574628864/686561446045417568/SFK.PNG
+
 - Blackfathom Deeps - Not Tested @ ??%
-- Gnomeregan - Not Tested @ ??% 
+- Gnomeregan - Working @ 97% [Scripted]
+https://cdn.discordapp.com/attachments/643583318574628864/686561478592954448/hellscream_achives_-_gnomeregan.PNG
+
 - Scarlet Halls - Not Tested @ ??%  
 - Scarlet Monastery - Not Tested @ ??% 
-- Razorfen Kraul - Not Tested @ ??% 
+- Razorfen Kraul - Working @ 97% [Scripted]
+https://cdn.discordapp.com/attachments/643583318574628864/686561502362337300/RFK.PNG
+
 - Maraudon - Not Tested @ ??% 
 - Razorfen Downs - Not Tested @ ??% 
 - Dire Maul - Not Tested @ ??% 
@@ -313,8 +329,8 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 - Hellfire Ramparts - Not Tested @ ??%  	
 - Blood Furnace - Not Tested @ ??%  	
-- Slave Pens - Not Tested @ ??%  
-- Underbog - Not Tested @ ??%  
+- Slave Pens - Working @ 99% [Scripted]  
+- Underbog - Working @ 98% [Scripted]  
 - Mana-Tombs - Not Tested @ ??% 
 - Auchenai Crypts - Not Tested @ ??%  
 - Escape from Durnholde Keep - Not Tested @ ??% 
@@ -340,7 +356,9 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Halls of Stone - Not Tested @ ??% 	
 - Halls of Lightning - Not Tested @ ??%
 - The Oculus - Not Tested @ ??%
-- Utgarde Pinnacle - Not Tested @ ??%
+- Utgarde Pinnacle - Working @ 92% [Scripted] 
+https://cdn.discordapp.com/attachments/643583318574628864/688212707672981596/pinnacle.png
+
 - The Culling of Stratholme - Not Tested @ ??%
 - Trial of the Champion
 - Halls of Reflection - Not Tested @ ??%
@@ -370,21 +388,21 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Scarlet Monastery - Not Tested @ ??% 
 - Scholomance - Not Tested @ ??%
 - Stormstout Brewery - Not Tested @ ??%
-- Temple Jade Serpent - Not Tested @ ??%
-- Mogushan Palace - Not Tested @ ??%
+- Temple Jade Serpent - Working @ 95% [Scripted]
+- Mogushan Palace - Working @ 98% [Scripted]
 - Shadopan Monastery - Not Tested @ ??%
 - Gate Setting Sun - Not Tested @ ??%
 - Siege Niuzao Temple - Not Tested @ ??%
 
 *WoD Dungeons
 
-- Bloodmaul Slag Mines - Working @ 100% [Scripted]
-- Iron Docks - Not Tested @ ??% 
-- Auchindoun - Not Tested @ ??%
-- Skyreach - Working @ 98% [Scripted]
-- Grimrail Depot - Not Tested @ ??%
-- Shadowmoon Burial Grounds - Not Tested @ ??%
-- The Everbloom - Not Working @ 49% [Scripted] - Can't get to last boss.
+- Bloodmaul Slag Mines - Working @ 98% [Scripted]
+- Iron Docks - Not Working @ ??% 
+- Auchindoun - Working @ 97% [Scripted]
+- Skyreach - Working @ 99% [Scripted]
+- Grimrail Depot - Not Working @ ??% 
+- Shadowmoon Burial Grounds - Not Working @ ??% 
+- The Everbloom - Working @ 59% [Scripted] - Can't get to last boss.
 - Upper Blackrock Spire - Not Tested @ ??%
 
 ------------------------------------------------------------------------------------
@@ -393,18 +411,18 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *Classic Raids
 
-- Molten Core - Not Tested @ ??% 
-- Blackwing Lair - Not Tested @ ??% 
-- Ruins of Ahn'Qiraj - Not Tested @ ??%  
-- Temple of Ahn'Qiraj - Not Tested @ ??% 
+- Molten Core - Working @ 98% [Scripted]
+- Blackwing Lair - Working @ 76% [Scripted]
+- Ruins of Ahn'Qiraj - Working @ 95% [Scripted]
+- Temple of Ahn'Qiraj - Working @ 84% [Scripted]
 
 *Tbc Raids
 
 - Karazhan - Not Tested @ ??% 
-- Gruul's Lair - Not Tested @ ??%  
+- Gruul's Lair - - Working @ 98% [Scripted]
 - Magtheridon's Lair - Not Tested @ ??%  
-- Serpentshrine Cavern - Not Tested @ ??% 
-- Tempest Keep: The Eye - Not Tested @ ??% 
+- Serpentshrine Cavern - - Working @ 99% [Scripted]
+- Tempest Keep: The Eye - Working @ 95% [Scripted]
 - Battle for Mount Hyjal - Not Tested @ ??% 
 - Black Temple - Not Tested @ ??% 
 - Sunwell Plateau - Not Tested @ ??% 
@@ -418,7 +436,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Ulduar - Not Tested @ ??%
 - Crusaders' Coliseum: Trial of the Crusader - Not Tested @ ??% 
 - Onyxia's Lair - Not Tested @ ??% 
-- Icecrown Citadel - Not Tested @ ??%
+- Icecrown Citadel - Not Working @ 45%
 - Ruby Sanctum - Not Tested @ ??%
 
 *Cata Raids
@@ -439,40 +457,43 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *WoD Raids
 
-- Highmaul - Working @ 90% [Scripted] - Needs some more phasing work on outside area.
-- Blackrock Foundry - Not Tested @ ??%
-- Hellfire Citadel - Not Tested @ ??%
+- Highmaul - Working @ 86% [Scripted] - Needs some more phasing work on outside area.
+- Blackrock Foundry - Working @ 99% [Scripted]
+- Hellfire Citadel - Not Working @ 45% 
  
 ------------------------------------------------------------------------------------
 
 ## Core Mechanics
 
-- Advanced Pathfinding mMaps/vMaps - Working @ 100%
-- AoE Loot - Not Working @ 45% - Will be fixed in next few updates.
+- Advanced Pathfinding mMaps/vMaps - Working @ 98%
+- AoE Loot - Not Working @ 95% - Working for groups only at this stage.
 - Achievements - Working @ 96%
-- Account-Wide Collections (Mounts, Heirlooms, Pets, Toys) - Working @ 60%
+- Account-Wide Collections (Mounts, Heirlooms, Pets, Toys) - Working @ 80%
 - Transmogrifier - Working @ 100%
 - Void Storage - Working @ 100%
 - Base & Bonus Stats - Working @ 100%
-- Battle-Pet - Working @ 100%
+- Battle-Pet - Semi Working @ 80%
 - Brawler - Working @ 100%
-- Garrisons - Working @ 94%
-- Shipyards - Working @ 91%
+- Garrisons - Working @ 90%
+- Shipyards - Working @ 95%
+- Missions/Outposts - Working @ 100%
 - Followers - Working @ 100%
 - Timewalker Dungeons - Working @ 100%
 - Personal Loot [LFR] - Working @ 100%
 - Group Loot - Working @ 100%
 - Random Dungeon Finder - Working @ 100% 
 - Looking For Raid - Working @ 100%
-- Scenarios - Working @ 89%
+- Scenarios - Working @ 98%
 - Clean Up Bag - Working @ 100%
 - Bank - Working @ 100%
 - Arena Skirmish - Working @ 100%
 - Rated Battlegrounds - Working @ 100%
-- Mail - Working @ 45% - Will be worked on in next few updates.
+- Mail - Not Working @ 45%
 - Guild - Working @ 100%
 - Bonus Objectives - Working @ 100%
 - Treasures - Working @ 100%
+- Phasing - Working @ 94%
+- Areatrigger - Working @ 89%
 
 ------------------------------------------------------------------------------------
 
@@ -489,8 +510,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 - Enchanting - Working @ 99%
 - Leatherworking - Working @ 99%
 - Skinning - Working @ 99%
-- Archaeology - Working @ 67% - Still needs some work.
-
+- Archaeology - Working @ 69%
 ------------------------------------------------------------------------------------
 
 ## Game Events
@@ -514,7 +534,8 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 *Game_Event
 
 - Arena Skirmish Bonus Event - Working @ 94%
-- Battleground Bonus Event - Working @ 98%
+- Apexis Bouns Event - Working @ 100%
+- Battleground Bonus Event - Working @ 100%
 - Cata Timewalking Dungeon Event - Working @ 95%
 - Darkmoon Faire - Working @ 98%
 - Northrend Timewalking Dungeon Event - Working @ 99%
@@ -539,26 +560,27 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *Outland
 
-- Doom Lord Kazzak - Not Tested @ ??%
-- Doomwalker - Not Tested @ ??%
+- Doom Lord Kazzak - Working @ 100% [Scripted]
+- Doomwalker - Working @ 100% [Scripted]
 
 *Pandaria
 
-- Chi-Ji <The Red Crane> - Not Tested @ ??%
-- Niuzao <The Black Ox> - Not Tested @ ??%
-- Xuen <The White Tiger> - Not Tested @ ??%
-- Yu'lon <The Jade Serpent> - Not Tested @ ??%
-- Nalak <The Storm Lord> - Not Tested @ ??%
-- Ordos <Fire-God of the Yaungol> - Not Tested @ ??%
-- Oondasta - Not Tested @ ??%
-- Galion - Not Tested @ ??%
-- Sha of Anger - Not Tested @ ??%
+- Chi-Ji <The Red Crane> - Working @ 98% [Scripted]
+- Niuzao <The Black Ox> - Working @ 95% [Scripted]
+- Xuen <The White Tiger> - Working @ 96% [Scripted]
+- Yu'lon <The Jade Serpent> - Working @ 100% [Scripted]
+- Nalak <The Storm Lord> - Working @ 100% [Scripted]
+- Ordos <Fire-God of the Yaungol> - Working @ 99% [Scripted]
+- Oondasta - Working @ 100% [Scripted]
+- Galion - Working @ 100% [Scripted]
+- Sha of Anger - Working @ 80% [Scripted]
+ https://cdn.discordapp.com/attachments/643583318574628864/689187885932740770/Capture.PNG
 
 *Draenor
 
  - Drov the Ruiner - Working @ 100% [Scripted]
  - Rukhmar - Working @ 100% [Scripted]
- - Supreme Lord Kazzak - Not Tested @ ??%
+ - Supreme Lord Kazzak - Working @ 91% [Scripted]
  - Tarlna the Ageless - Working @ 100% [Scripted]
 
 ------------------------------------------------------------------------------------
