@@ -1,4 +1,4 @@
-# Project Hellscream™ - Information [0.1.5] Open-Beta
+# Project Hellscream™ - Information [0.1.5a] Open-Beta
 ------------------------------------------------------------------------------------
 
 ## Information and Updates
@@ -25,6 +25,18 @@ All %'s are based on Blizzlike state of 6.2.x patch.
 ## About Project Hellscream™ 6.2
 
 Project Hellscream™ is a 6.2 project based off Trinitycore is a MMORPG Framework based mostly in C++. It is private sourced. https://hellscream.org
+
+------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------
+
+## Realm Information
+
+1-60 - Live progression realm, all characters will stay on official release.
+- Rates: x2
+
+60-100 - Beta stages will be used for late game testing, no character progression saved.
+- Rates: x3 with 60 or instant 100 with season 2 gear.
 
 ------------------------------------------------------------------------------------
 
