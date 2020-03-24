@@ -30,11 +30,11 @@ Project Hellscream™ is a 6.2 project based off Trinitycore is a MMORPG Framewo
 
 ## Realm Information
 
-1-60 - Live progression realm, all characters progression will stay on official release, with some things beening removed like gold etc.
-- Rates: x2
+- 1-60: This is a 2x, live progression realm, all character's progress will stay upon official release, with some things such as gold, being reset upon release this will allow us to test 1-60 content also. 
 
-60-100 - Beta stages will be used for late game testing, no character progression saved.
-- Rates: x3 with 60 or instant 100 with season 2 gear.
+- This gives everyone a chance to "get a head start" on our server and keep the progress you make with it! For the time being, Worgen/Goblin/Pandaren will be disabled to keep the realm Blizzlike. Upon our official release, this characters that reach level 60 *will* transfer over to our 1-100 realm!
+
+- 60-100: This will be a 3x realm, that will be used for later stage testing, no character progress will be saved from this server. On this realm you can level 60-100 at a 3x rate or you can get an instant 100 with season 2 PvP gear.
 
 ------------------------------------------------------------------------------------
 
