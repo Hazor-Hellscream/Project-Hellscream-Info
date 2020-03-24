@@ -28,8 +28,6 @@ Project Hellscream™ is a 6.2 project based off Trinitycore is a MMORPG Framewo
 
 ------------------------------------------------------------------------------------
 
-------------------------------------------------------------------------------------
-
 ## Realm Information
 
 1-60 - Live progression realm, all characters progression will stay on official release, with some thing removed like gold etc.
