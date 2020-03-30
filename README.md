@@ -64,7 +64,7 @@ You may now start playing! If you need any help, please report all bugs here htt
 Interested in helping "Project Hellscream" with Beta testing please join our discord, with our community of over 300 discord members.
 
 Discord invite link: 
-https://discord.gg/twdcqMH
+https://discord.gg/a4AQf2z
 
 ------------------------------------------------------------------------------------
 
