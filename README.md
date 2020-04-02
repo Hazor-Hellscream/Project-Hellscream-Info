@@ -2,9 +2,6 @@
 ------------------------------------------------------------------------------------
 
 ## Information and Updates
-
-All %'s are based on Blizzlike state of 6.2.x patch.
-
 * [Cut Content](#cut-content)
 * [How To Play?](#how-to-play?)
 * [Our Dedicated Server Specs](#our-dedicated-server-specs)
@@ -118,25 +115,25 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *Alliance
 
-- Elwynn Forest (Human @ 100%) - Working
-- Gilneas (Worgen @ 85%) - Working
-- Teldrassil (Night Elf @ 100%) - Working
-- Dun Morogh (Dwarf @ 100%) - Working
-- Gnomeregan (Gnome @ 97%) - Working
-- Azuremyst Isle & Bloodmyst Isle (Draenei @ 100%) - Working
+- Elwynn Forest (Human) - Working
+- Gilneas (Worgen) - Disbaled
+- Teldrassil (Night Elf) - Working
+- Dun Morogh (Dwarf) - Working
+- Gnomeregan (Gnome) - Working
+- Azuremyst Isle & Bloodmyst Isle (Draenei) - Working
 
 *Horde
 
-- Eversong Woods (Blood Elf @ 100%) - Working
-- Durotar (Orc @ 100%) - Working
-- Echo Isles (Troll @ 99%) - Working
-- Kezan (Goblin @ 76%) - Working
-- Mulgore (Tauren @ 100%) - Working
-- Trisfal Glades (Undead @ 94%) - Working
+- Eversong Woods (Blood Elf) - Working
+- Durotar (Orc) - Working
+- Echo Isles (Troll) - Working
+- Kezan (Goblin) - Disbaled
+- Mulgore (Tauren) - Working
+- Trisfal Glades (Undead) - Working
 
 *Neutral
 
-- The Wandering Isle (Pandaren @ 77%) - Disabled
+- The Wandering Isle (Pandaren) - Disabled
 
 ------------------------------------------------------------------------------------
 
@@ -283,7 +280,7 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 ## Classes
 
-- Death Knight - Playable
+- Death Knight - Disbaled
 - Druid - Playable
 - Hunter - Playable 
 - Mage - Playable
