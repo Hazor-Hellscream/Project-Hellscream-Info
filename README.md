@@ -1,4 +1,4 @@
-# Project Hellscream™ - Information [0.1.6]
+# Project Hellscream™ - Information [0.1.6a]
 ------------------------------------------------------------------------------------
 
 ## Information and Updates
@@ -27,13 +27,13 @@ Project Hellscream™ is a 6.2 project based off Trinitycore is a MMORPG Framewo
 
 ## Realm Information
 
-- 1-60 [Live]: 2x Rates Progression Realm - 
+- 1-60 [Live]: 3x Rates Progression Realm - 
 Here on this realm you'll be able to get a head start on your leveling journey, with your level 60 character's and their gear remaining upon all progression from 1-90 over the next year or two! In order to remain true to our Blizzlike vision, raid releases will be staggered over time and we're going to leave Worgen, Goblin and Pandaren disabled until working at Blizzlike state.
 
 "This gives everyone a chance to "get a head start" on our server and keep the progress you make with it! For the time being, Worgen/Goblin/Pandaren will be disabled to keep the realm Blizzlike. Upon our official release, this characters that reach level 60 *will* transfer over to our 1-100 realm!"
 
-- 60-100 [Closed-Beta]: 3x Rates Realm - 
-On our post 60 realm locked to only QA Rank and higher, you'll have a character start at level 60 with an optional power boost to level 100 from our Warlord of Draenor boost NPC - just keep an eye out for Durotan on a chicken! If you decide to boost to 100, you'll find your bags are brimming with season 2 PVP gear if you have bags/spec equipped/chosen. So that you can jump right into testing all your favorite WoD content.
+- 90-100 [Closed-Beta]: 3x Rates Realm - 
+On our post 60 realm locked to only QA Rank and higher, you'll have a character start at level 60 testing all your favorite WoD content.
 
 ------------------------------------------------------------------------------------
 
