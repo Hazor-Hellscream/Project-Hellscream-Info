@@ -59,7 +59,7 @@ You may now start playing! If you need any help, please report all bugs here htt
 
 ## Rule List
 
- By reading this you fully agree to the terms and rules laid out for Abolition-WoW. Remember to read through these rules in a complete manner, and to follow them respectively. Failing to do so may result in temporary or permanent suspension of your account here on Abolition-WoW. Any questions or issues with said rules, or translations required should be mentioned to a staff member. By default your status as a player will not be taken into account while you are playing, being a Premium member does not protect you from bans, mutes, or other lockouts that may be experienced.
+ By reading this you fully agree to the terms and rules laid out for Project-Hellscream. Remember to read through these rules in a complete manner, and to follow them respectively. Failing to do so may result in temporary or permanent suspension of your account here on Project-Hellscream. Any questions or issues with said rules, or translations required should be mentioned to a staff member. By default your status as a player will not be taken into account while you are playing, being a Premium member does not protect you from bans, mutes, or other lockouts that may be experienced.
 Rules
 ## Felony Offenses - No matter the circumstance, these rules are almost always not appealable, and carry heavier punishments than Misdemeanor offenses. Requires notice of punishment unless it is beyond a doubt that the suspect is doing the offense.
 
