@@ -90,7 +90,7 @@ Rules
 
 7) Added items from any staff member present will result in your character losing said items, your account being temporarily suspended, and the staff member in question being permanently fired without any chance of being re-hired. This does not include event rewards, unless the item in question is blacklisted, or not allowed to be given out via events. The same will also go for any titles added, or PvP related titles to event winners (Though is less egregious towards the staff member and player.)
 
-Standard Offenses - Offenses which do not fall under Misdemeanor or Felony, these are always appealable, may be mutes or suspensions, do not require any form of notice towards the punishment, and may be issued at any point.
+## Standard Offenses - Offenses which do not fall under Misdemeanor or Felony, these are always appealable, may be mutes or suspensions, do not require any form of notice towards the punishment, and may be issued at any point.
 
 1) Any form of chat spam which results in chat overflow. This means at least 4 messages in rapid succession if they are single-line, or two messages in rapid succession if they are 3 or more lines. By general statistics, it is considered spam if there are 4 or more messages sent within a span of 5 seconds, or continuous messages sent within the span of a minute. Recruitment messages should always be limited to once per minute, but more acceptable with once every 5 minutes to 1 hour.
 
