@@ -4,7 +4,7 @@
 ## Information and Updates
 * [Cut Content](#cut-content)
 * [How To Play?](#how-to-play?)
-* [Rule List](#rules)
+* [Rule List](#rule-list)
 * [Our Dedicated Server Specs](#our-dedicated-server-specs)
 * [Discord](#discord)
 * [Classes](#classes)
