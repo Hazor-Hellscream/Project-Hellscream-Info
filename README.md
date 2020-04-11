@@ -4,6 +4,7 @@
 ## Information and Updates
 * [Cut Content](#cut-content)
 * [How To Play?](#how-to-play?)
+* [Rule List](#rules)
 * [Our Dedicated Server Specs](#our-dedicated-server-specs)
 * [Discord](#discord)
 * [Classes](#classes)
@@ -56,6 +57,45 @@ You may now start playing! If you need any help, please report all bugs here htt
 
 ------------------------------------------------------------------------------------
 
+## Rule List
+
+ By reading this you fully agree to the terms and rules laid out for Abolition-WoW. Remember to read through these rules in a complete manner, and to follow them respectively. Failing to do so may result in temporary or permanent suspension of your account here on Abolition-WoW. Any questions or issues with said rules, or translations required should be mentioned to a staff member. By default your status as a player will not be taken into account while you are playing, being a Premium member does not protect you from bans, mutes, or other lockouts that may be experienced.
+Rules
+## Felony Offenses - No matter the circumstance, these rules are almost always not appealable, and carry heavier punishments than Misdemeanor offenses. Requires notice of punishment unless it is beyond a doubt that the suspect is doing the offense.
+
+1) Use of Third-party applications to manipulate multiple characters, change character ids, or other forms of statistics which would give an unfair advantage. This does not include the use of Client-side changes caused from Injectors (Amorph, Tmorph, SweetFX, etc).
+1a) Use of WPE or other forms of Hacking tools will result in a permanent ban and is not appealable in any regard. Being caught hacking in any respect will result in immediate punishment, and termination of services for the player in question.
+1b) The use of Cheat Engine to change modifiers such as Transmogrification or Gold is strictly prohibited, doing so will result in a warning for the player to stop using it, return their character back to normal, and continue playing. Further implications will result in temporary bans of up to 7 days on first offense, and 30 days on further offenses.
+1c) The use of any program which allows you to control multiple characters at once is strictly prohibited. Doing so will result in a temporary ban of up to 7 days on first offense, 30 days on second offense, and further implications resulting in permanent ban. You may also be subjected to IP ban if caught using a Multi-boxing tool.
+2) Using our server to send hateful words towards the server itself, or to advertise for another server. It is important to know the difference between advertising, and referencing. This does not include simply referencing a server name, but rather using a server name in terms of publicity on our service. Being caught will result in a permanent suspension, and further implications will result in a permanent IP suspension.
+3) Using threats that include, but not relatively exclusive to rape, murder, distributed denial of service (DDOS), DOX, or more in relativity to blackmail or harm a staff member or player will result in an automatic suspension of your account. This ban is not appealable, and further implications will lead to IP bans or even ISP bans.
+4) Severe subjective behavior that would result in the disturbance of the player base or force others to leave, such as racism towards a certain demographic, or the exclusion of a certain culture that would displease them of our service. This behavior may result in temporary suspensions or mutes where applicable.
+5) Using an exploit to receive an unfair advantage in the game, this rule is split into two different scales. For spell exploits and item exploits, see the Misdemeanor rules. Using any form of Java scripts or MySQL exploits that would result in you getting items that should be paid for, for free, is strictly prohibited. This will result in the items purchased being removed from your account, and a temporary suspension. Further implications may result in permanent suspension of your account.
+6) Posting URLs or having character names related to content which is not Safe for Work will result in a temporary suspension, or a temporary mute. This may coincide with content such as gore, pornography, videos or images with excessive violence, or media content which may express violent opinions, nudity, or gore. Sharing an image which resulted you getting a paper cut, is considered Safe for Work, though we do not condone people going out and getting paper cuts for entertainment.
+7) Avoiding a mute and / or a suspension which is temporary or permanent and failure to agree to our terms of service will result in an automatic IP and account suspension. While we understand that getting muted or suspended may irritate players, it is best to handle so in a respective manner, if you were not IP suspended, you may use our service on an alternate account assuming you do not break any rules. if further implications were found, or you start brewing trouble, it may lead to IP suspension, and lockout from our service.
+
+Misdemeanor Offenses - Offenses which are subjective to the staff member, but follow a generic guideline which may result in temporary suspensions, mutes, or other forms of lockouts. These may sometimes be appealed, but not always.
+1) Using a spell or item to exploit in a manner which would give the player an unfair advantage over others. This includes Warlocks using Demonic Gateway to get on top of a roof, or frostbolting your pet as a frost mage to receive immense damage. This does not include stuff that do not add any advantage to anyone at all, and should be kept to unfair advantages only.
+2) The use of racist, sexist, or otherwise offensive remarks towards staff and players is unacceptable, this may include using terms which would be used to indirectly send offensive remarks towards staff or players. This will always result in a mute, which the final offense is a permanent mute. 
+3) Having names or guild names which are offensive towards a demographic, this includes some guild names which have surfaced such as "Paris Deserved It" or "Black People deserve death" is not acceptable. Anyone caught using this will have their guild disbanded, or their character force renamed. This rule applies to any demographic, regardless of stature or political standing.
+4) Defamation or lies made towards players or the staff will result in temporary or permanent suspension depending on the stuff told. Accusations made without evidence is not taken lightly, but likewise, accusations made with evidence will not bode well for the subject of the conversation.
+5) The use of chat colors or chat modifications to try and scam and / or annoy people. Our staff will never ask for any personal information related to you, or your account. If a player is claiming to be a staff member and asking for your password, report them immediately. Likewise, impersonating a staff member is not allowed, and may resolve in a temporary suspension or mute. The use of color chat through a macro is not allowed, and should not be used in any circumstance.
+6) Any form of in-game farming which results in the use of the same IP may result in a ban. Killing an alternate player over and over to gain Honor, or having two to ten characters total to farm conquest or arena rating is strictly prohibited, being caught may resolve in you receiving a suspension up to 30 days in length. This does not include siblings which play on the same network, or other forms of same-network playing. Proof is required, and there will always be an investigation associated with suspects.
+7) Added items from any staff member present will result in your character losing said items, your account being temporarily suspended, and the staff member in question being permanently fired without any chance of being re-hired. This does not include event rewards, unless the item in question is blacklisted, or not allowed to be given out via events. The same will also go for any titles added, or PvP related titles to event winners (Though is less egregious towards the staff member and player.)
+
+Standard Offenses - Offenses which do not fall under Misdemeanor or Felony, these are always appealable, may be mutes or suspensions, do not require any form of notice towards the punishment, and may be issued at any point.
+1) Any form of chat spam which results in chat overflow. This means at least 4 messages in rapid succession if they are single-line, or two messages in rapid succession if they are 3 or more lines. By general statistics, it is considered spam if there are 4 or more messages sent within a span of 5 seconds, or continuous messages sent within the span of a minute. Recruitment messages should always be limited to once per minute, but more acceptable with once every 5 minutes to 1 hour.
+2) ASCII imagery should be socially acceptable, and safe for work. They should also not be spammed (Standard Offense 1) or contain advertising or server bashing content (Felony Offense 6.) Keep ASCII art tasteful, and free of derogatory and harmful free.
+3) World chat through the use of .world or .chat is English-only. Using LFG, say, whisper, or other forms of chat does not have this requirement.
+
+General Notes - These have no punishments, but relate to reporting offenses appropriately.
+Note 1: Do not ever report players by saying their name in world chat. Always report players using either our forums (While providing Screenshot or video proof) or in-game using Tickets. Generally reporting via world means that the suspects know they are being watched, which means that they will stop, and make our job much more difficult.
+Note 2: Please remember that evidence is key, we cannot do anything if there is no evidence, or we don't see it for ourselves. Your report may be rejected if this is the case, though you will always be asked to provide evidence before-hand.
+Note 3: Just because someone is a licensed streamer for our server, does not mean that they receive punishment-free lives. If you see a streamer abusing an exploit or hacking, do not hesitate in reporting them via the forums (Again with proof), or in-game with the ticket system.
+Note 4: We assure quality, If a player or staff member is insulting you, remember to report them using the appropriate formats. Please remember that evidence or first-hand sight is required to make our decisions justified.
+
+
+------------------------------------------------------------------------------------
 ## Discord
 
 Interested in helping "Project Hellscream" with Beta testing please join our discord, with our community of over 300 discord members.
