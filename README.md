@@ -1,4 +1,4 @@
-# Project Hellscream™ - Information [0.1.6a]
+# Project Hellscream™ - Information [0.1.7]
 ------------------------------------------------------------------------------------
 
 ## Information and Updates
@@ -476,6 +476,7 @@ https://cdn.discordapp.com/attachments/643583318574628864/688212707672981596/pin
 
 *Classic Raids
 
+- Onyxia's Lair - Working
 - Molten Core - Working
 - Blackwing Lair - Working
 - Ruins of Ahn'Qiraj - Working
