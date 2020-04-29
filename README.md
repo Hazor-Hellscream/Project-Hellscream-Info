@@ -1,4 +1,4 @@
-# Project Hellscream™ - Information [0.1.7]
+# Project Hellscream™ - Information [0.1.7a]
 ------------------------------------------------------------------------------------
 
 ## Information and Updates
@@ -28,26 +28,24 @@ Project Hellscream™ is a 6.2 project based off Trinitycore is a MMORPG Framewo
 
 ## Realm Information
 
-- 1-60 [Live]: 3x Rates Progression Realm - 
+Warsong - 1-60 [Live]: 3x Rates Progression Realm - 
 Here on this realm you'll be able to get a head start on your leveling journey, with your level 60 character's and their gear remaining upon all progression from 1-90 over the next year or two! In order to remain true to our Blizzlike vision, raid releases will be staggered over time and we're going to leave Worgen, Goblin and Pandaren disabled until working at Blizzlike state.
 
 "This gives everyone a chance to "get a head start" on our server and keep the progress you make with it! For the time being, Worgen/Goblin/Pandaren will be disabled to keep the realm Blizzlike. Upon our official release, this characters that reach level 60 *will* transfer over to our 1-100 realm!"
 
-- 90-100 [Closed-Beta]: 3x Rates Realm - 
-On our post 60 realm locked to only QA Rank and higher, you'll have a character start at level 60 testing all your favorite WoD content.
+Blackrock - Instant 100 PvP FFA Realm - 
+is now online Blackrock Instant 100 PvP Only Realm, be able play some WoD PvP again finally!.
 
 ------------------------------------------------------------------------------------
 
 ## How To Play?
 
 1. First of all, you must create an account. The account is used to log into both the game and our website
- here: https://www.hellscream.org/register.
+ here: https://www.hellscream.org.
 - Remember login with your Email/Password.
 
 
 2. Download Project Hellscream Client's Here:
-
-Client download links on our main page, Top right corner.
 https://hellscream.org/
 
 * You must have a torrent client installed to download Project Hellscream, we recommend uTorrent. 
