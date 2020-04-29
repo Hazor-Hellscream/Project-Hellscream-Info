@@ -1,4 +1,4 @@
-# Project Hellscream™ - Information [0.1.7a]
+# Project Hellscream™ - Information [0.1.7]
 ------------------------------------------------------------------------------------
 
 ## Information and Updates
@@ -22,36 +22,49 @@
 
 ## About Project Hellscream™ 6.2
 
-Project Hellscream™ is a 6.2 project based off Trinitycore is a MMORPG Framework based mostly in C++. It is private sourced. https://hellscream.org
+Project Hellscream™ is a 6.2.3 (20779) project. We are a small team of dedicated developers, determined, to bring back the Warlords of Draenor experience to the players whom seek it. We are currently focused on 3 main aspects of the game: Progression (Leveling 1-100, Garrison, Max Level Content Progression and all the features that come with), PvE and PvP. Although those are our main aspects, we aim to perfect the server over-time.
+
+Our project is based off of Trinitycore: a MMORPG Framework based mostly in C++.
+Our core is private sourced.
+https://hellscream.org
 
 ------------------------------------------------------------------------------------
 
 ## Realm Information
 
-Warsong - 1-60 [Live]: 3x Rates Progression Realm - 
-Here on this realm you'll be able to get a head start on your leveling journey, with your level 60 character's and their gear remaining upon all progression from 1-90 over the next year or two! In order to remain true to our Blizzlike vision, raid releases will be staggered over time and we're going to leave Worgen, Goblin and Pandaren disabled until working at Blizzlike state.
+We currently have two live realms -:
 
-"This gives everyone a chance to "get a head start" on our server and keep the progress you make with it! For the time being, Worgen/Goblin/Pandaren will be disabled to keep the realm Blizzlike. Upon our official release, this characters that reach level 60 *will* transfer over to our 1-100 realm!"
+- Warsong - 1-60 [Live]:
+3x Rates Progression Realm - 
+On this realm you'll be able to get a head start on your leveling journey, with your level 60 characters and their gear remaining upon all progression from 1-90 over the next year or two! In order to remain true to our blizzlike vision, raid releases will be staggered over time. We plan on progressing to TBC, WotLK, Cataclysm, MoP and eventually WoD after each expansion's progression has been released.
 
-Blackrock - Instant 100 PvP FFA Realm - 
-is now online Blackrock Instant 100 PvP Only Realm, be able play some WoD PvP again finally!.
+This plan is made to flush out bugs and broken content while you get a head start and the developers work to perfecting the content.
+
+- Blackrock - Instant 100 [Live] :
+We have released a PvP instant 100 Warlords of Draenor realm in order to flush out class bugs and what follows. No creatures and progression content exist on this realm. The realm is made purely for PvP experience and for players whom are waiting for Warlords of Draenor progression.
+
+This plan is made to mainly flush out class bugs while you experience Warlords of Draenor, PvP. The last expansion that held truly worth-its-while PvP.
+
 
 ------------------------------------------------------------------------------------
 
 ## How To Play?
 
-1. First of all, you must create an account. The account is used to log into both the game and our website
- here: https://www.hellscream.org.
-- Remember login with your Email/Password.
+1. First of all, you must create an account here: https://www.hellscream.org/register.
+The account is used to log both into the game and our website.
+- Remember your login credentials.
 
 
 2. Download Project Hellscream Client's Here:
+
+Client download links on our main page, Top right corner.
 https://hellscream.org/
 
-* You must have a torrent client installed to download Project Hellscream, we recommend uTorrent. 
+* You must have a torrent client installed to download Project Hellscream, we recommend u-Torrent. 
 
 
-You may now start playing! If you need any help, please report all bugs here https://github.com/Hazor-Hellscream/Project-Hellscream-Info/issues.
+You may now start playing! If you need any help reach out to us in our Discord.
+Please report all bugs here https://github.com/Hazor-Hellscream/Project-Hellscream-Info/issues.
 
 ------------------------------------------------------------------------------------
 
@@ -124,7 +137,7 @@ https://discord.gg/a4AQf2z
 - Karabor [Quest Chain][Cities]
 - Fungal Whale World Boss [Locations][World Bosses]
 - Shattrath [Locations][Raid]
-- Zangermarsh [Locations]
+- Zangarmarsh [Locations]
 - Unfinished Battlegrounds/Arenas [Core Mechanics]
 - All Garrison Content [Quest Chain]
 - Bladespire Citadel [Quest Chain][Cities]
@@ -133,7 +146,7 @@ https://discord.gg/a4AQf2z
 - Blood Elf Models [Core Mechanics]
 - Yrel's Dark Secret [Quest Chain]
 - Feral Worgen storyline in Shadowmoon Valley [Quest Chain]
-- Maraad & Yrel relationship and more [Quest Chain]
+- Maraad & Yrel's relationship [Quest Chain]
 - Tabard Tab [Core Mechanics]
 - Ogre Island [Locations]
 - Medivh [Quest Chain]
@@ -167,25 +180,25 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *Alliance
 
-- Elwynn Forest (Human) - Working
-- Gilneas (Worgen) - Disbaled
-- Teldrassil (Night Elf) - Working
-- Dun Morogh (Dwarf) - Working
-- Gnomeregan (Gnome) - Working
-- Azuremyst Isle & Bloodmyst Isle (Draenei) - Working
+- Elwynn Forest (Human) - 100% Blizzlike. Revamped the whole zone.
+- Gilneas (Worgen) - In-development - %90 blizzlike. Release: Cataclysm progression.
+- Teldrassil (Night Elf) - 98% Blizzlike.
+- Dun Morogh (Dwarf) - 99% Blizzlike.
+- Gnomeregan (Gnome) - 90% Blizzlike.
+- Azuremyst Isle & Bloodmyst Isle (Draenei) - 99% Blizzlike.
 
 *Horde
 
-- Eversong Woods (Blood Elf) - Working
-- Durotar (Orc) - Working
-- Echo Isles (Troll) - Working
-- Kezan (Goblin) - Disbaled
-- Mulgore (Tauren) - Working
-- Trisfal Glades (Undead) - Working
+- Eversong Woods (Blood Elf) - 99% Blizzlike.
+- Durotar (Orc) - 100% Blizzlike.
+- Echo Isles (Troll) - 90% Blizzlike. Under extensive development.
+- Kezan (Goblin) - In-development. 80% blizzlike. Release: Cataclysm progression.
+- Mulgore (Tauren) - 95% Blizzlike.
+- Tirisfal Glades (Undead) - 99% Blizzlike. Revamped the whole zone.
 
 *Neutral
 
-- The Wandering Isle (Pandaren) - Disabled
+- The Wandering Isle (Pandaren) - In-development. 75% blizzlike. Release: Mists of Pandaria progression.
 
 ------------------------------------------------------------------------------------
 
@@ -193,146 +206,146 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *Eastern Kingdoms
 
-- Abyssal Depths	80 - 82	Contested - Not Tested
-- Alterac Mountains	25 - 30	Contested - Not Tested
-- Arathi Highlands	25 - 60	Contested - Working
-- Badlands	40 - 60	Contested - Not Working
-- Blackrock Mountain	50 - 60	Contested - Not Tested	
-- Blasted Lands	40 - 60	Contested - Not Tested	
-- Burning Steppes	40 - 60	Contested - Not Working
-- Coldridge Valley	1 - 20	Alliance - Not Tested		
-- Deadwind Pass	50 - 60	Contested - Not Tested
-- Deathknell	1 - 20	Horde - Not Tested
-- Deeprun Tram	1 - 100	Alliance	Transit - Not Tested
-- Dun Morogh	1 - 20	Alliance - Not Tested
-- Duskwood	20 - 60	Alliance - Working	
+- Abyssal Depths	80 - 82	Contested - Untested
+- Alterac Mountains	25 - 30	Contested - Untested
+- Arathi Highlands	25 - 60	Contested - Working [100% Blizzlike]
+- Badlands	40 - 60	Contested - Not Working [Under-Development]
+- Blackrock Mountain	50 - 60	Contested - Working [90% Blizzlike]
+- Blasted Lands	40 - 60	Contested - Working [90% Blizzlike]
+- Burning Steppes	40 - 60	Contested - Not Working [Under-Development]
+- Coldridge Valley	1 - 20	Alliance - Untested		
+- Deadwind Pass	50 - 60	Contested - Untested
+- Deathknell	1 - 20	Horde - Working [99% Blizzlike]
+- Deeprun Tram	1 - 100	Alliance	Transit - Untested
+- Dun Morogh	1 - 20	Alliance - Working [99% Blizzlike]
+- Duskwood	20 - 60	Alliance - Working	[90% Blizzlike]
 - Eastern Plaguelands	40 - 60	Contested - Working
-- Elwynn Forest	1 - 20	Alliance - Not Tested 
-- Eversong Woods	1 - 20	Horde - Not Tested 
-- Ghostlands	10 - 60	Horde - Not Tested 
-- Gilneas	1 - 12	Alliance - Not Tested 
-- Gilneas City	1 - 20	Alliance - Not Tested
-- Hillsbrad Foothills	15 - 60	Horde - Not Tested
-- Isle of Quel'Danas	70	Contested - Not Tested
-- Kelp'thar Forest	80 - 90	Contested - Not Tested
-- Loch Modan	10 - 60	Alliance - Working
-- New Tinkertown	1 - 20	Alliance - Not Tested
-- Northern Stranglethorn	25 - 60	Contested - Not Tested
-- Northshire	1 - 20	Alliance - Not Tested	
-- Plaguelands: The Scarlet Enclave	55 - 58	Contested - Not Tested
-- Redridge Mountains	15 - 60	Alliance - Not Tested
-- Ruins of Gilneas	14 - 20	Alliance - Not Tested
-- Ruins of Gilneas City		Contested - Not Tested
-- Searing Gorge	40 - 60	Contested - Not Working
-- Shimmering Expanse	80 - 82	Contested - Not Tested
-- Silverpine Forest	10 - 60	Horde - Not Tested
-- Stranglethorn Vale	30 - 50	Contested - Not Tested
-- Sunstrider Isle	1 - 20	Horde - Not Tested
-- Swamp of Sorrows	40 - 60	Contested - Not Tested
-- The Cape of Stranglethorn	30 - 60	Contested - Not Tested
-- The Hinterlands	30 - 60	Contested - Working
-- Tirisfal Glades	1 - 20	Horde - Working
-- Twilight Highlands	84 - 90	Contested - Not Tested
-- Vashj'ir	80 - 82	Contested - Not Tested		
-- Western Plaguelands	35 - 60	Contested	- Working 
-- Westfall	10 - 60	Alliance - Working 		
-- Wetlands	25 - 60	Alliance - Working 
+- Elwynn Forest	1 - 20	Alliance - Working [95% Blizzlike]
+- Eversong Woods	1 - 20	Horde - Working [99% Blizzlike]
+- Ghostlands	10 - 60	Horde - Untested
+- Gilneas	1 - 12	Alliance - Working [100% Blizzlike - Under-Development]
+- Gilneas City	1 - 20	Alliance - Working [100% Blizzlike - Under-Development]
+- Hillsbrad Foothills	15 - 60	Horde - Working [80% Blizzlike]
+- Isle of Quel'Danas	70	Contested - Untested
+- Kelp'thar Forest	80 - 90	Contested - Untested
+- Loch Modan	10 - 60	Alliance - Working [99% Blizzlike]
+- New Tinkertown	1 - 20	Alliance - Working [95% Blizzlike]
+- Northern Stranglethorn	25 - 60	Contested - Untested
+- Northshire	1 - 20	Alliance - Working [100% Blizzlike]	
+- Plaguelands: The Scarlet Enclave	55 - 58	Contested - Working [95% Blizzlike - Under-Development]
+- Redridge Mountains	15 - 60	Alliance - Working [99% Blizzlike]
+- Ruins of Gilneas	14 - 20	Alliance - Untested
+- Ruins of Gilneas City		Contested - Untested
+- Searing Gorge	40 - 60	Contested - Not Working [70% Blizzlike]
+- Shimmering Expanse	80 - 82	Contested - Untested
+- Silverpine Forest	10 - 60	Horde - Not Working [40% Blizzlike - Under extensive Development]
+- Stranglethorn Vale	30 - 50	Contested - Untested
+- Sunstrider Isle	1 - 20	Horde - Working [99% Blizzlike]
+- Swamp of Sorrows	40 - 60	Contested - Working [99% Blizzlike]
+- The Cape of Stranglethorn	30 - 60	Contested - Untested
+- The Hinterlands	30 - 60	Contested - Working [95% Blizzlike]
+- Tirisfal Glades	1 - 20	Horde - Working [99% Blizzlike]
+- Twilight Highlands	84 - 90	Contested - Untested
+- Vashj'ir	80 - 82	Contested - Untested	
+- Western Plaguelands	35 - 60	Contested	- Working [90% Blizzlike]
+- Westfall	10 - 60	Alliance - Working [98% Blizzlike]
+- Wetlands	25 - 60	Alliance - Working [90% Blizzlike]
 
 *Kalimdor
 
-- Ammen Vale	1 - 20	Alliance - Not Tested
-- Ashenvale	15 - 60	Contested - Working	
-- Azshara	10 - 60	Horde - Not Tested
-- Azuremyst Isle	1 - 10	Alliance - Not Tested	
-- Bilgewater Harbor	1 - 90	Contested - Not Tested
-- Bloodmyst Isle	10 - 60	Alliance - Not Tested	
-- Camp Narache	1 - 20	Horde - Not Tested		
-- Darkshore	10 - 60	Alliance - Not Tested		
-- Desolace	30 - 60	Contested - Not Working	
-- Durotar	1 - 20	Horde - Not Tested		
-- Dustwallow Marsh	35 - 60	Contested - Working
-- Echo Isles	1 - 20	Horde - Not Tested		
-- Felwood	40 - 60	Contested - Not Tested
-- Feralas	35 - 60	Contested - Working	
-- Molten Front	85	Contested - Not Tested
-- Moonglade	1 - 90	Contested - Not Tested	
-- Mount Hyjal	80 - 90	Contested - Not Tested
-- Mulgore	1 - 20	Horde - Not Tested
-- Northern Barrens	10 - 60	Horde - Not Tested
-- Shadowglen	1 - 20	Alliance - Not Tested	
-- Silithus	40 - 60	Contested - Working 
-- Southern Barrens	25 - 60	Contested - Working
-- Stonetalon Mountains	20 - 60	Contested - Working
-- Tanaris	40 - 60	Contested - Working
-- Teldrassil	1 - 20	Alliance - Working
-- Thousand Needles	40 - 60	Contested - Working	
-- Uldum	83 - 90	Contested - Not Tested
-- Un'Goro Crater	40 - 60	Contested - Working	
-- Valley of Trials	1 - 20	Horde - Not Tested	
-- Winterspring	40 - 60	Contested - Not Tested
+- Ammen Vale	1 - 20	Alliance - Working [98% Blizzlike]
+- Ashenvale	15 - 60	Contested - Working [90% Blizzlike]	
+- Azshara	10 - 60	Horde - Untested
+- Azuremyst Isle	1 - 10	Alliance - Working [98% Blizzlike]
+- Bilgewater Harbor	1 - 90	Contested - Untested
+- Bloodmyst Isle	10 - 60	Alliance - Untested	
+- Camp Narache	1 - 20	Horde - Working [95% Blizzlike]		
+- Darkshore	10 - 60	Alliance - Untested	
+- Desolace	30 - 60	Contested - Not Working	[45% Blizzlike]
+- Durotar	1 - 20	Horde - Working [95% Blizzlike]	
+- Dustwallow Marsh	35 - 60	Contested - Working [99% Blizzlike]
+- Echo Isles	1 - 20	Horde - Working [85% Blizzlike - Under extensive Development]	
+- Felwood	40 - 60	Contested - Untested
+- Feralas	35 - 60	Contested - Working	[85% Blizzlike)
+- Molten Front	85	Contested - Untested
+- Moonglade	1 - 90	Contested - Untested
+- Mount Hyjal	80 - 90	Contested - Untested
+- Mulgore	1 - 20	Horde - Working [95% Blizzlike]
+- Northern Barrens	10 - 60	Horde - Working [97% Blizzlike]
+- Shadowglen	1 - 20	Alliance - Working [99% Blizzlike]	
+- Silithus	40 - 60	Contested - Working [92% Blizzlike]
+- Southern Barrens	25 - 60	Contested - Working [87% Blizzlike]
+- Stonetalon Mountains	20 - 60	Contested - Not Working [60% Blizzlike - Under-Development for Phasing and Events]
+- Tanaris	40 - 60	Contested - Working [95% Blizzlike]
+- Teldrassil	1 - 20	Alliance - Working [99% Blizzlike]
+- Thousand Needles	40 - 60	Contested - Not Working [40% Blizzlike - Under-Development for Phasing and Events]
+- Uldum	83 - 90	Contested - Untested
+- Un'Goro Crater	40 - 60	Contested - Not Working [60% Blizzlike - Under-Development]	
+- Valley of Trials	1 - 20	Horde - Working [100% Blizzlike]	
+- Winterspring	40 - 60	Contested - Working [85% Blizzlike]
 
 *The Great Sea
 
-- Kezan - Working
-- Deepholm - Working
-- Lost Isles - Working
-- The Maelstrom - Working
-- Wandering Isle - Working
+- Kezan - Under-Development
+- Deepholm - Under-Development
+- Lost Isles - Under-Development
+- The Maelstrom - Under-Development
+- Wandering Isle - Under-Development
 
 *Outland
 
-- Blade's Edge Mountains - Not Tested
-- Hellfire Peninsula - Not Tested
-- Nagrand - Not Tested
-- Netherstorm - Not Tested
-- Shadowmoon Valley - Not Tested
-- Terokkar Forest - Not Tested
-- Zangarmarsh - Not Tested
+- Blade's Edge Mountains - Untested
+- Hellfire Peninsula - Working [90% Blizzlike]
+- Nagrand - Untested
+- Netherstorm - Untested
+- Shadowmoon Valley - Untested
+- Terokkar Forest - Untested
+- Zangarmarsh - Untested
 
 *Northrend
-
-- Borean Tundra - Working
-- Crystalsong Forest - Not Tested
-- Dragonblight - Not Tested
-- Grizzly Hills - Not Tested
-- Howling Fjord - Not Tested
-- Hrothgar's Landing - Not Tested
-- Icecrown - Not Tested
-- Wintergrasp - Not Tested
-- Sholazar Basin - Not Tested
-- Storm Peaks - Not Tested
-- Zul'Drak - Not Tested
+~ Northrend Content is receiving daily updates and fixes for when 1-80 progression is released.
+- Borean Tundra - Untested
+- Crystalsong Forest - Untested
+- Dragonblight - Untested
+- Grizzly Hills - Untested
+- Howling Fjord - Untested
+- Hrothgar's Landing - Untested
+- Icecrown - Untested
+- Wintergrasp - Untested
+- Sholazar Basin - Untested
+- Storm Peaks - Untested
+- Zul'Drak - Untested
 
 *Pandaria
 
-- Dread Wastes - Not Tested
-- Isle of Giants - Not Tested
-- Isle of Thunder - Not Tested
-- The Jade Forest - Not Tested
-- Kun-Lai Summit - Not Tested
-- Krasarang Wilds - Not Tested
-- Timeless Isle - Not Tested
-- Townlong Steppes - Not Tested
-- Vale of Eternal Blossoms - Not Tested
-- Valley of the Four Winds - Not Tested
-- Veiled Stair - Not Tested
+- Dread Wastes - Untested
+- Isle of Giants - Untested
+- Isle of Thunder - Untested
+- The Jade Forest - Untested
+- Kun-Lai Summit - Untested
+- Krasarang Wilds - Untested
+- Timeless Isle - Untested
+- Townlong Steppes - Untested
+- Vale of Eternal Blossoms - Untested
+- Valley of the Four Winds - Untested
+- Veiled Stair - Untested
 
 *Draenor
-
-- Frostfire Ridge - Working
-- Shadowmoon Valley - Working
-- Gorgrond - Working
-- Talador - Working
-- Spires of Arak - Working
-- Nagrand - Not Working
-- Tanaan Jungle 100 - Not Working
-- Ashran - Working
+~ Draenor content is receiving daily fixes and script-implementations.
+- Frostfire Ridge - Working [Under-Development]
+- Shadowmoon Valley - Working [Under-Development]
+- Gorgrond - Working [Under-Development]
+- Talador - Working [Under-Development]
+- Spires of Arak - Working [Under-Development]
+- Nagrand - Not Working [Under-Development]
+- Tanaan Jungle 100 - Not Working [Under-Development]
+- Ashran - Working [Under-Development]
 
 ------------------------------------------------------------------------------------
 
 ## Classes
-
-- Death Knight - Disbaled
+~ All classes are receiving extensive care and development daily. All abilities are working and we are working on flushing out all the hidden/circumstancial bugs.
+- Death Knight - Playable
 - Druid - Playable
 - Hunter - Playable 
 - Mage - Playable
@@ -350,123 +363,123 @@ https://www.mmo-champion.com/threads/1874264-A-collection-of-all-known-cut-delay
 
 *Classic Dungeons
 
-- Ragefire Chasm - Working
+- Ragefire Chasm - Working [99% Blizzlike]
 https://cdn.discordapp.com/attachments/643583318574628864/686561292978487353/RFC.PNG
 
-- The Deadmines - Working  
+- The Deadmines - Working [99% Blizzlike]
 https://cdn.discordapp.com/attachments/643583318574628864/686561328688529433/deadmines.PNG
 
-- Wailing Caverns - Working
+- Wailing Caverns - Working [100% Blizzlike]
 https://cdn.discordapp.com/attachments/643583318574628864/686561419575164967/WC.PNG
 
-- Stormwind Stockades - Working
+- Stormwind Stockades - Working [100% Blizzlike]
 https://cdn.discordapp.com/attachments/643583318574628864/686561389073924116/Stockades.PNG
 
-- Shadowfang Keep - Working
+- Shadowfang Keep - Working [99% Blizzlike]
 https://cdn.discordapp.com/attachments/643583318574628864/686561446045417568/SFK.PNG
 
-- Blackfathom Deeps - Not Tested
+- Blackfathom Deeps - Untested
 
-- Gnomeregan - Working
+- Gnomeregan - Working [95% Blizzlike]
 https://cdn.discordapp.com/attachments/643583318574628864/686561478592954448/hellscream_achives_-_gnomeregan.PNG
 
-- Scarlet Halls - Not Tested 
-- Scarlet Monastery - Not Tested 
+- Scarlet Halls - [Under-Development]
+- Scarlet Monastery - [Under-Development]
 
-- Razorfen Kraul - Working
+- Razorfen Kraul - Working [100% Blizzlike]
 https://cdn.discordapp.com/attachments/643583318574628864/686561502362337300/RFK.PNG
 
-- Maraudon - Not Tested
-- Razorfen Downs - Not Tested 
-- Dire Maul - Not Tested
-- Scholomance - Not Tested 
-- Uldaman - Not Tested
-- Stratholme - Not Tested 
-- Zul'Farrak - Not Tested  
-- Blackrock Depths - Not Tested
-- Sunken Temple - Not Tested 
-- Lower Blackrock Spire - Not Tested
+- Maraudon - Untested
+- Razorfen Downs - [Under-Development for the new 6.0.2 version]
+- Dire Maul - Untested
+- Scholomance - Working [99% Blizzlike] 
+- Uldaman - Untested
+- Stratholme - Untested
+- Zul'Farrak - Working [90% Blizzlike]   
+- Blackrock Depths - Working [99% Blizzlike] 
+- Sunken Temple - Working [95% Blizzlike] 
+- Lower Blackrock Spire - Disabled for classic progression. [Under-Development]
 
 *Tbc Dungeons
 
-- Hellfire Ramparts - Not Tested  	
-- Blood Furnace - Not Tested
+- Hellfire Ramparts - Untested 	
+- Blood Furnace - Untested
 - Slave Pens - Working 
 - Underbog - Working 
-- Mana-Tombs - Not Tested
-- Auchenai Crypts - Not Tested  
-- Escape from Durnholde Keep - Not Tested
-- Sethekk Halls - Not Tested
-- Shadow Labyrinth - Not Tested
-- Shattered Halls - Not Tested 
-- The Botanica - Not Tested 
-- The Mechanar - Not Tested 
-- The Steamvault - Not Tested 
-- Magisters' Terrace - Not Tested
-- Opening of the Dark Portal - Not Tested 
-- The Arcatraz - Not Tested
+- Mana-Tombs - Untested
+- Auchenai Crypts - Untested  
+- Escape from Durnholde Keep - Untested
+- Sethekk Halls - Untested
+- Shadow Labyrinth - Untested
+- Shattered Halls - Untested
+- The Botanica - Untested
+- The Mechanar - Untested 
+- The Steamvault - Untested 
+- Magisters' Terrace - Untested
+- Opening of the Dark Portal - Untested
+- The Arcatraz - Untested
 
 *Wotlk Dungeons
 
-- Utgarde Keep - Not Tested
-- The Nexus - Not Tested 
-- Azjol-Nerub: Azjol-Nerub - Not Tested
-- Ahn'kahet: The Old Kingdom - Not Tested
-- Drak'Tharon Keep - Not Tested 	
-- The Violet Hold - Not Tested
-- Gundrak - Not Tested
-- Halls of Stone - Not Tested	
-- Halls of Lightning - Not Tested
-- The Oculus - Not Tested
+- Utgarde Keep - Untested
+- The Nexus - Untested 
+- Azjol-Nerub: Azjol-Nerub - Untested
+- Ahn'kahet: The Old Kingdom - Untested
+- Drak'Tharon Keep - Untested 	
+- The Violet Hold - Untested
+- Gundrak - Untested
+- Halls of Stone - Untested	
+- Halls of Lightning - Untested
+- The Oculus - Untested
 
-- Utgarde Pinnacle - Working
+- Utgarde Pinnacle - Working [99% Blizzlike]
 https://cdn.discordapp.com/attachments/643583318574628864/688212707672981596/pinnacle.png
 
-- The Culling of Stratholme - Not Tested
-- Trial of the Champion
-- Halls of Reflection - Not Tested
-- Pit of Saron - Not Tested
-- The Forge of Souls - Not Tested
+- The Culling of Stratholme - Untested
+- Trial of the Champion - Untested
+- Halls of Reflection - Untested
+- Pit of Saron - Untested
+- The Forge of Souls - Untested
 
 *Cata Dungeons
 
-- Throne of the Tides - Not Tested
-- Blackrock Caverns - Not Tested
-- The Stonecore - Working
-- The Vortex Pinnacle - Not Tested 
-- Grim Batol - Not Tested
-- Halls of Origination - Not Tested	
-- Lost City of the Tol'vir - Not Tested
-- The Deadmines (Heroic) - Not Tested
-- Shadowfang Keep (Heroic) - Not Tested
-- Zul'Aman - 5-man - Not Tested
-- Zul'Gurub - Not Tested
-- End Time - Not Tested
-- Well of Eternity - Not Tested
-- Hour of Twilight - Not Tested
+- Throne of the Tides - Untested
+- Blackrock Caverns - Untested
+- The Stonecore - Working [100% Blizzlike]
+- The Vortex Pinnacle - Untested 
+- Grim Batol - Untested
+- Halls of Origination - Untested
+- Lost City of the Tol'vir - Untested
+- The Deadmines (Heroic) - Untested
+- Shadowfang Keep (Heroic) - Untested
+- Zul'Aman - 5-man - Untested
+- Zul'Gurub - Untested
+- End Time - Untested
+- Well of Eternity - Untested
+- Hour of Twilight - Untested
 
 *MoP Dungeons
 
-- Scarlet Halls - Not Tested
-- Scarlet Monastery - Not Tested 
-- Scholomance - Not Tested
-- Stormstout Brewery - Not Tested
+- Scarlet Halls (heroic) - Untested
+- Scarlet Monastery (heroic) - Untested
+- Scholomance (heroic) - [Under-Development]
+- Stormstout Brewery - Untested
 - Temple Jade Serpent - Working
 - Mogushan Palace - Working
-- Shadopan Monastery - Not Tested
-- Gate Setting Sun - Not Tested
-- Siege Niuzao Temple - Not Tested
+- Shadopan Monastery - Untested
+- Gate Setting Sun - Untested
+- Siege Niuzao Temple - Untested
 
 *WoD Dungeons
 
-- Bloodmaul Slag Mines - Working
-- Iron Docks - Working
-- Auchindoun - Working
-- Skyreach - Working
-- Grimrail Depot - Not Working 
-- Shadowmoon Burial Grounds - Not Working
-- The Everbloom - Working - Can't get to last boss.
-- Upper Blackrock Spire - Working - Only the first 2 bosses.
+- Bloodmaul Slag Mines - Working [99% Blizzlike]
+- Iron Docks - Working [99% Blizzlike]
+- Auchindoun - Working [99% Blizzlike]
+- Skyreach - Working [99% Blizzlike]
+- Grimrail Depot - Not Working [55% Blizzlike]
+- Shadowmoon Burial Grounds - Not Working [20% Blizzlike]
+- The Everbloom - Working [90% Blizzlike]
+- Upper Blackrock Spire - Working [75% Blizzlike]
 
 ------------------------------------------------------------------------------------
 
@@ -474,107 +487,107 @@ https://cdn.discordapp.com/attachments/643583318574628864/688212707672981596/pin
 
 *Classic Raids
 
-- Onyxia's Lair - Working
-- Molten Core - Working
-- Blackwing Lair - Working
-- Ruins of Ahn'Qiraj - Working
-- Temple of Ahn'Qiraj - Working
+- Onyxia's Lair - Working [99% Blizzlike]
+- Molten Core - Working [99% Blizzlike]
+- Blackwing Lair - Working [99% Blizzlike]
+- Ruins of Ahn'Qiraj - Working [95% Blizzlike]
+- Temple of Ahn'Qiraj - Working [95% Blizzlike]
 
 *Tbc Raids
 
-- Karazhan - Not Tested
-- Gruul's Lair - - Working
-- Magtheridon's Lair - Not Tested 
-- Serpentshrine Cavern - - Working
-- Tempest Keep: The Eye - Working
-- Battle for Mount Hyjal - Not Tested
-- Black Temple - Not Tested
-- Sunwell Plateau - Not Tested
+- Karazhan - Untested
+- Gruul's Lair - - Working [99% Blizzlike]
+- Magtheridon's Lair - Untested
+- Serpentshrine Cavern - - Working [99% Blizzlike]
+- Tempest Keep: The Eye - Working [90% Blizzlike]
+- Battle for Mount Hyjal - Untested
+- Black Temple - Untested
+- Sunwell Plateau - Untested
 
 *Wotlk Raids
 
-- Naxxramas - Not Tested 	
-- Obsidian Sanctum - Not Tested 
-- Vault of Archavon - Not Tested
-- Eye of Eternity - Not Tested
-- Ulduar - Not Tested
-- Crusaders' Coliseum: Trial of the Crusader - Not Tested
-- Onyxia's Lair - Not Tested 
-- Icecrown Citadel - Not Working
-- Ruby Sanctum - Not Tested
+- Naxxramas - Untested 	
+- Obsidian Sanctum - Untested
+- Vault of Archavon - Untested
+- Eye of Eternity - Untested
+- Ulduar - Untested
+- Crusaders' Coliseum: Trial of the Crusader - Untested
+- Onyxia's Lair - Untested
+- Icecrown Citadel - Not Working [Under-Development]
+- Ruby Sanctum - Untested
 
 *Cata Raids
 
-- Baradin Hold - Not Tested
-- The Bastion of Twilight - Not Tested
-- Throne of the Four Winds - Not Tested
-- Blackwing Descent - Not Tested
-- Firelands - Not Tested
-- Dragon Soul - Not Tested
+- Baradin Hold - Untested
+- The Bastion of Twilight - Untested
+- Throne of the Four Winds - Untested
+- Blackwing Descent - Untested
+- Firelands - Untested
+- Dragon Soul - Untested
 
 *MoP Raids
-- Mogushan Vault - Not Tested
-- Heart Of Fear - Not Tested
-- Terrace of Endless Spring - Not Tested 
-- Throne of Thunder - Not Tested
-- Siege of Orgrimmar - Not Tested
+- Mogushan Vault - Untested
+- Heart Of Fear - Untested
+- Terrace of Endless Spring - Untested
+- Throne of Thunder - Untested
+- Siege of Orgrimmar - Untested
 
 *WoD Raids
 
-- Highmaul - Working - Needs some more phasing work on outside area.
-- Blackrock Foundry - Working
-- Hellfire Citadel - Not Working 
+- Highmaul - Working [99% Blizzlike]
+- Blackrock Foundry - Working [90% Blizzlike]
+- Hellfire Citadel - Not Working [Under-Development]
  
 ------------------------------------------------------------------------------------
 
 ## Core Mechanics
 
-- Advanced Pathfinding mMaps/vMaps - Working
-- AoE Loot - Not Working - Working for groups only at this stage.
-- Achievements - Working
-- Account-Wide Collections (Mounts, Heirlooms, Pets, Toys) - Working
-- Transmogrifier - Working
-- Void Storage - Working
-- Base & Bonus Stats - Working
-- Battle-Pet - Semi Working
-- Brawler - Working
-- Garrisons - Working
-- Shipyards - Working
-- Missions/Outposts - Working
-- Followers - Working
-- Timewalker Dungeons - Working
-- Personal Loot [LFR] - Working
-- Group Loot - Working
-- Random Dungeon Finder - Working
-- Looking For Raid - Working
-- Scenarios - Working
-- Clean Up Bag - Working
-- Bank - Working
-- Arena Skirmish - Working
-- Rated Battlegrounds - Working
-- Mail - Not Working
-- Guild - Working
-- Bonus Objectives - Working
-- Treasures - Working
-- Phasing - Working
-- Areatrigger - Working
+- Advanced Pathfinding mMaps/vMaps - Working [95% Blizzlike]
+- AoE Loot - Not Working - Working for groups only at this stage [Under-Development].
+- Achievements - Working [98% Blizzlike]
+- Account-Wide Collections (Mounts, Heirlooms, Pets, Toys) - Working [90% Blizzlike]
+- Transmogrifier - Working [100% Blizzlike]
+- Void Storage - Working [100% Blizzlike]
+- Base & Bonus Stats - Working [95% Blizzlike]
+- Battle-Pet - Semi Working [40% Blizzlike]
+- Brawler - Working [80% Blizzlike]
+- Garrisons - Working [95% Blizzlike]
+- Shipyards - Working [95% Blizzlike]
+- Missions/Outposts - Working [100% Blizzlike]
+- Followers - Working [90% Blizzlike]
+- Timewalker Dungeons - [Under-Development]
+- Personal Loot [LFR] - Working [100% Blizzlike]
+- Group Loot - Working [100% Blizzlike]
+- Random Dungeon Finder - Working [100% Blizzlike]
+- Looking For Raid - Working [100% Blizzlike]
+- Scenarios - Working [Under-Development - A few MoP scenarios have been scripted and are 100% Blizzlike]
+- Clean Up Bag - Working [100% Blizzlike]
+- Bank - Working [100% Blizzlike]
+- Arena Skirmish - Working [100% Blizzlike]
+- Rated Battlegrounds - Working [100% Blizzlike]
+- Mail - Working [99% Blizzlike]
+- Guild - Working [90% Blizzlike]
+- Bonus Objectives - Working [100% Blizzlike]
+- Treasures - Working [100% Blizzlike]
+- Phasing System - Working [99% Blizzlike]
+- Areatrigger System - Working [95% Blizzlike]
 
 ------------------------------------------------------------------------------------
 
 ## Professions
 
-- Alchemy - Working
-- Blacksmithing - Working
-- Inscription - Working
-- Jewelcrafting - Working
-- Mining - Working
-- Tailoring - Working
-- Engineering - Working
-- Herbalism - Working
-- Enchanting - Working
-- Leatherworking - Working
-- Skinning - Working
-- Archaeology - Working
+- Alchemy - Working [100% Blizzlike]
+- Blacksmithing - Working [100% Blizzlike]
+- Inscription - Working [100% Blizzlike]
+- Jewelcrafting - Working [100% Blizzlike]
+- Mining - Working [100% Blizzlike]
+- Tailoring - Working [100% Blizzlike]
+- Engineering - Working [100% Blizzlike]
+- Herbalism - Working [100% Blizzlike]
+- Enchanting - Working [100% Blizzlike]
+- Leatherworking - Working [100% Blizzlike]
+- Skinning - Working [100% Blizzlike]
+- Archaeology - Not Working [Under-Development]
 ------------------------------------------------------------------------------------
 
 ## Game Events
@@ -614,38 +627,38 @@ https://cdn.discordapp.com/attachments/643583318574628864/688212707672981596/pin
 
 *Azeroth
 
-- Akma'hat <Dirge of the Eternal Sands> - Not Tested
-- Garr - Not Tested
-- Julak-Doom <The Eye of Zor> - Not Tested
-- Mobus <The Crushing Tide> - Not Tested
-- Prince Thunderaan <The Wind Seeker> - Not Tested
-- Whale Shark - Not Tested
-- Xariona - Not Tested
+- Akma'hat <Dirge of the Eternal Sands> - Untested
+- Garr - Untested
+- Julak-Doom <The Eye of Zor> - Untested
+- Mobus <The Crushing Tide> - Untested
+- Prince Thunderaan <The Wind Seeker> - Untested
+- Whale Shark - Untested
+- Xariona - Untested
 
 *Outland
 
-- Doom Lord Kazzak - Working
-- Doomwalker - Working
+- Doom Lord Kazzak - Working [100% Blizzlike]
+- Doomwalker - Working [100% Blizzlike]
 
 *Pandaria
 
-- Chi-Ji <The Red Crane> - Working
-- Niuzao <The Black Ox> - Working
-- Xuen <The White Tiger> - Working
-- Yu'lon <The Jade Serpent> - Working
-- Nalak <The Storm Lord> - Working
-- Ordos <Fire-God of the Yaungol> - Working
-- Oondasta - Working
-- Galion - Working
+- Chi-Ji <The Red Crane> - Working [100% Blizzlike]
+- Niuzao <The Black Ox> - Working [100% Blizzlike]
+- Xuen <The White Tiger> - Working [100% Blizzlike]
+- Yu'lon <The Jade Serpent> - Working [100% Blizzlike]
+- Nalak <The Storm Lord> - Working [100% Blizzlike]
+- Ordos <Fire-God of the Yaungol> - Working [100% Blizzlike]
+- Oondasta - Working [100% Blizzlike]
+- Galion - Working [100% Blizzlike]
  
-- Sha of Anger - Working
+- Sha of Anger - Working [100% Blizzlike]
  https://cdn.discordapp.com/attachments/643583318574628864/689187885932740770/Capture.PNG
 
 *Draenor
 
- - Drov the Ruiner - Working
- - Rukhmar - Working
- - Supreme Lord Kazzak - Working
- - Tarlna the Ageless - Working
+ - Drov the Ruiner - Working [100% Blizzlike]
+ - Rukhmar - Working [100% Blizzlike]
+ - Supreme Lord Kazzak - Working [100% Blizzlike]
+ - Tarlna the Ageless - Working [100% Blizzlike]
 
 ------------------------------------------------------------------------------------
