@@ -1,4 +1,4 @@
-# Project Hellscream™ - Information [0.1.7]
+# Project Hellscream™ - Information [0.1.7a]
 ------------------------------------------------------------------------------------
 
 ## Information and Updates
@@ -50,16 +50,15 @@ This plan is made to mainly flush out class bugs while you experience Warlords o
 
 ## How To Play?
 
-1. First of all, you must create an account here: https://www.hellscream.org/register.
+1. First of all, you must create an account here: https://hellscream.org/
 The account is used to log both into the game and our website.
 - Remember your login credentials.
 
 
 2. Download Project Hellscream Client's Here:
 
-Client download links on our main page, Top right corner.
-https://hellscream.org/
-
+Client download links on our how to play page.
+http://logon.hellscream.org/page/connect
 * You must have a torrent client installed to download Project Hellscream, we recommend u-Torrent. 
 
 
