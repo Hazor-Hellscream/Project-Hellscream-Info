@@ -1,4 +1,4 @@
-# Project Hellscream™ - Information [0.1.7a]
+# Project Hellscream™ - Information [0.1.8]
 ------------------------------------------------------------------------------------
 
 ## Information and Updates
